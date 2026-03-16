@@ -1,5 +1,5 @@
 # Kata Roman Numerals — Starter Code Python
-# À utiliser pour l'atelier Pair Programming & TDD (J2 matin)
+# À utiliser pour l'atelier Pair Programming & TDD (Journée complète – matin)
 
 def to_roman(number):
     """Convertit un entier en chiffre romain.

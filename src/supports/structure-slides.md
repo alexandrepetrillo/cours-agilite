@@ -6,25 +6,23 @@
 ---
 
 ## Slide Deck 1 : Principes de la Méthodologie Agile
-*Utilisé : J1 — 09h30 à 10h15*
+*Utilisé : Demi-journée — 10h15 à 10h45 (format quiz/explication intercalé)*
 
 | # | Slide | Contenu | Notes |
 |---|-------|---------|-------|
 | 1 | Titre | « Bienvenue dans le monde Agile 🚀 » | Image d'accroche (fusée, équipe) |
 | 2 | Le monde AVANT l'Agile | La crise du logiciel des années 90 : stats d'échecs de projets (Standish Group CHAOS Report) | Graphique choc : 70% des projets échouent |
 | 3 | Les 17 rebelles | Photo de Snowbird 2001, les 17 signataires du Manifeste | Anecdote : ils étaient en vacances au ski ! |
-| 4-7 | Les 4 valeurs (1 par slide) | Chaque valeur avec un exemple concret | Utiliser des icônes visuelles |
+| 4-7 | Les 4 valeurs (1 par slide) | Chaque valeur avec un quiz + exemple concret | Utiliser des icônes visuelles |
 | 8 | Les 4 valeurs — résumé | Vue d'ensemble avec schéma visuel | |
-| 9-12 | Les 12 principes | Regroupés par thème (3 par slide) | Exemples concrets |
-| 13 | Waterfall vs Agile | Schéma comparatif côte à côte | Visuel : cascade vs boucles |
-| 14 | Cycle en V vs Agile | Schéma du V + schéma itératif | |
-| 15 | Les frameworks Agile | Carte mentale : Scrum, Kanban, XP, SAFe, Lean | Positionner chacun |
-| 16 | Quiz time ! 🎮 | « Sortez vos smartphones — Kahoot ! » | QR code du quiz |
+| 9-11 | Les 12 principes | Regroupés par thème (4 par slide) | Exemples concrets, lien avec le jeu Kapla |
+| 12 | Waterfall vs Agile | Schéma comparatif côte à côte | Visuel : cascade vs boucles |
+| 13 | Les frameworks Agile | Carte mentale : Scrum, Kanban, XP, SAFe, Lean | Positionner chacun |
 
 ---
 
 ## Slide Deck 2 : Scrum
-*Utilisé : J1 — 11h15 (15 min de cours express)*
+*Utilisé : Demi-journée — 10h45 (1h30 de cours interactif)*
 
 | # | Slide | Contenu |
 |---|-------|---------|
@@ -34,20 +32,20 @@
 | 4 | Le Product Owner | Responsabilités, ce qu'il fait / ne fait pas |
 | 5 | Le Scrum Master | Servant-leader, facilitateur, protecteur |
 | 6 | L'équipe de Dev | Auto-organisée, cross-fonctionnelle |
-| 7 | Les événements | Timeline d'un Sprint avec tous les événements |
-| 8 | Sprint Planning | Comment ça se passe, timebox |
-| 9 | Daily Scrum | 15 min, 3 questions, debout ! |
-| 10 | Sprint Review | Démo au stakeholder, feedback |
-| 11 | Sprint Retrospective | Amélioration continue |
-| 12 | Les artefacts | Product Backlog, Sprint Backlog, Increment |
-| 13 | User Stories | Format « En tant que… je veux… afin de… » + INVEST |
-| 14 | Definition of Done | Exemple concret |
-| 15 | C'est l'heure du Lego ! 🧱 | Instructions pour la simulation |
+| 7 | Quiz « Qui fait quoi ? » | Scénarios à attribuer au bon rôle |
+| 8 | Les événements | Timeline d'un Sprint avec tous les événements |
+| 9 | Sprint Planning | Comment ça se passe, timebox |
+| 10 | Daily Scrum | 15 min, 3 questions, debout ! |
+| 11 | Sprint Review | Démo au stakeholder, feedback — lien avec Kapla |
+| 12 | Sprint Retrospective | Amélioration continue — formats (étoile de mer, 4L, Mad/Sad/Glad) |
+| 13 | Les artefacts | Product Backlog, Sprint Backlog, Increment |
+| 14 | Mise en situation | Instructions pour les scénarios « Qui fait quoi ? » |
+| 15 | Les formats de rétro | Étoile de mer ⭐, 4L, Mad/Sad/Glad — bonnes pratiques |
 
 ---
 
 ## Slide Deck 3 : Kanban
-*Utilisé : J1 — 15h15 (15 min de cours)*
+*Utilisé : Journée complète — 11h30 (10 min de cours + simulation)*
 
 | # | Slide | Contenu |
 |---|-------|---------|
@@ -65,7 +63,7 @@
 ---
 
 ## Slide Deck 4 : Extreme Programming
-*Utilisé : J2 — 09h20 (40 min)*
+*Utilisé : Journée complète — 13h15 (40 min)*
 
 | # | Slide | Contenu |
 |---|-------|---------|
@@ -84,26 +82,21 @@
 
 ---
 
-## Slide Deck 5 : Mise en œuvre Agile
-*Utilisé : J2 — 13h30 (45 min)*
+## Slide Deck 5 : Sprint Review & User Stories
+*Utilisé : Journée complète — 09h15 (US & DoD) et 15h45 (Sprint Review théorique)*
 
 | # | Slide | Contenu |
 |---|-------|---------|
-| 1 | Titre | « Adapter l'Agile à votre réalité 🎯 » |
-| 2 | Quel framework pour quel contexte ? | Tableau Scrum vs Kanban vs XP |
-| 3 | Matrice de décision | Critères : taille équipe, type de projet, disponibilité client |
-| 4 | Gestion du changement | Accueillir le changement en Agile |
-| 5 | Product Backlog vivant | Comment il évolue |
-| 6 | Impact Mapping | Schéma + exemple |
-| 7 | Story Mapping | Schéma + exemple |
-| 8 | Gestion des risques | Risk Burndown Chart |
-| 9 | Fail fast, learn faster | Exemples célèbres |
-| 10 | Auto-organisation | Les conditions pour que ça marche |
-| 11 | Indicateurs Agile | Vélocité, Burndown, Burnup, CFD |
-| 12 | Étude de cas : Startup | Quel framework ? |
-| 13 | Étude de cas : ESN | Quel framework ? |
-| 14 | Étude de cas : Service public | Quel framework ? |
-| 15 | À vous de jouer ! 🚀 | Lancement de l'atelier « Projet 60 min » |
+| 1 | Titre | « User Stories & Sprint Review 🎯 » |
+| 2 | Format User Story | « En tant que… je veux… afin de… » |
+| 3 | Exemples bons / mauvais | Quiz : « Est-ce une bonne US ? » |
+| 4 | Critères INVEST | 1 critère par bullet, avec exemples |
+| 5 | Definition of Done | Pourquoi, exemple concret |
+| 6 | DoD vs Critères d'acceptation | Différence claire |
+| 7 | MoSCoW | Priorisation : Must / Should / Could / Won't |
+| 8 | Planning Poker | Comment ça marche, suite de Fibonacci |
+| 9 | Sprint Review | Qu'est-ce que c'est ? Qui participe ? Quand ? |
+| 10 | Review vs Rétrospective | Inspecter le produit vs inspecter le processus |
 
 ---
 
@@ -116,4 +109,3 @@
 - **Icônes** : utiliser des emojis ou des icônes (Flaticon, Heroicons)
 - **Animations** : sobres, pas de transitions flashy
 - **Sources d'images gratuites** : Unsplash, Pexels, Undraw (illustrations)
-

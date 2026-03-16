@@ -1,0 +1,189 @@
+# Quiz Scrum - Format YAML
+# 15 questions : 3 rôles + 5 événements + 3 artefacts + 4 concepts transversaux
+# À importer dans Kahoot, Mentimeter ou tout outil compatible
+
+title: "Quiz Scrum 🏉"
+description: "Testez vos connaissances sur les rôles, événements, artefacts et piliers de Scrum"
+
+questions:
+  # =============================================
+  # LES 3 RÔLES
+  # =============================================
+
+  # Rôle 1 — Product Owner
+  - text: "Quel est le rôle principal du Product Owner dans une équipe Scrum ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "Coder les fonctionnalités les plus complexes"
+      - "Gérer le planning de l'équipe au quotidien"
+      - "Maximiser la valeur du produit en gérant le Product Backlog"
+      - "S'assurer que l'équipe respecte les délais"
+    correctAnswer: 2
+
+  # Rôle 2 — Scrum Master
+  - text: "Le Scrum Master est le chef de projet de l'équipe Scrum."
+    type: VRAI_FAUX
+    timeLimit: 15
+    points: 1000
+    correctAnswer: false
+
+  # Rôle 3 — Équipe de Développement
+  - text: "Combien de personnes composent idéalement une équipe de développement Scrum ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "1 à 2 personnes"
+      - "3 à 9 personnes"
+      - "10 à 15 personnes"
+      - "Pas de limite"
+    correctAnswer: 1
+
+  # =============================================
+  # LES 5 ÉVÉNEMENTS
+  # =============================================
+
+  # Événement 1 — Le Sprint
+  - text: "Quelle est la durée maximale d'un Sprint en Scrum ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "1 semaine"
+      - "2 semaines"
+      - "3 semaines"
+      - "4 semaines (1 mois)"
+    correctAnswer: 3
+
+  # Événement 2 — Sprint Planning
+  - text: "Qui décide quels éléments du Product Backlog seront réalisés pendant le Sprint ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "Le Product Owner seul"
+      - "Le Scrum Master"
+      - "Le chef de projet"
+      - "L'équipe de développement, en collaboration avec le Product Owner"
+    correctAnswer: 3
+
+  # Événement 3 — Daily Scrum
+  - text: "Quelle est la durée maximale du Daily Scrum ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "5 minutes"
+      - "15 minutes"
+      - "30 minutes"
+      - "1 heure"
+    correctAnswer: 1
+
+  # Événement 4 — Sprint Review
+  - text: "La Sprint Review est une démonstration où l'équipe montre ce qu'elle a fait, sans interaction avec les parties prenantes."
+    type: VRAI_FAUX
+    timeLimit: 15
+    points: 1000
+    correctAnswer: false
+
+  # Événement 5 — Sprint Retrospective
+  - text: "Sur quoi porte la Sprint Retrospective ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "Sur le produit livré"
+      - "Sur la performance individuelle de chaque membre"
+      - "Sur le processus de travail de l'équipe et comment l'améliorer"
+      - "Sur le budget du projet"
+    correctAnswer: 2
+
+  # =============================================
+  # LES 3 ARTEFACTS
+  # =============================================
+
+  # Artefact 1 — Product Backlog
+  - text: "Qui est responsable du Product Backlog ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "Le Scrum Master"
+      - "L'équipe de développement"
+      - "Le Product Owner"
+      - "Toute l'équipe Scrum ensemble"
+    correctAnswer: 2
+
+  # Artefact 2 — Sprint Backlog
+  - text: "Le Product Owner peut ajouter de nouveaux éléments au Sprint Backlog en cours de sprint."
+    type: VRAI_FAUX
+    timeLimit: 15
+    points: 1000
+    correctAnswer: false
+
+  # Artefact 3 — Incrément
+  - text: "Qu'est-ce qu'un Incrément en Scrum ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "Un rapport d'avancement"
+      - "Le nombre de stories terminées"
+      - "La somme de tous les éléments du backlog terminés, respectant la Definition of Done"
+      - "La dernière fonctionnalité codée"
+    correctAnswer: 2
+
+  # =============================================
+  # CONCEPTS TRANSVERSAUX
+  # =============================================
+
+  # Concept 1 — Auto-organisation
+  - text: "En Scrum, qui décide COMMENT le travail va être réalisé ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "Le Product Owner"
+      - "Le Scrum Master"
+      - "Le manager de l'équipe"
+      - "L'équipe de développement elle-même"
+    correctAnswer: 3
+
+  # Concept 2 — Les 3 piliers
+  - text: "Quels sont les 3 piliers empiriques de Scrum ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "Planification, Exécution, Livraison"
+      - "Transparence, Inspection, Adaptation"
+      - "Rapidité, Qualité, Coût"
+      - "Confiance, Communication, Collaboration"
+    correctAnswer: 1
+
+  # Concept 3 — Scrum vs Kanban
+  - text: "Quel framework Agile serait le plus adapté pour une équipe de support qui traite des tickets en continu, sans sprints définis ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "Scrum"
+      - "Kanban"
+      - "Extreme Programming"
+      - "Cycle en V"
+    correctAnswer: 1
+
+  # Concept 4 — Mise en situation
+  - text: "Le Product Owner arrive en plein sprint et dit : « J'ai une urgence, il faut ajouter cette fonctionnalité immédiatement. » Que fait le Scrum Master ?"
+    type: QCM
+    timeLimit: 30
+    points: 1000
+    answers:
+      - "Il ajoute la fonctionnalité au Sprint Backlog"
+      - "Il refuse catégoriquement"
+      - "Il rappelle que le Sprint Backlog est protégé et propose d'ajouter l'élément au Product Backlog pour le prochain sprint"
+      - "Il demande à l'équipe de faire des heures supplémentaires"
+    correctAnswer: 2
+

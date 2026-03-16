@@ -1,7 +1,7 @@
 # 📊 Grille d'Évaluation par Compétence — Module Agile
 
 > **Évaluation formative** : basée sur l'observation pendant les ateliers et jeux.
-> Le formateur complète cette grille pour chaque étudiant au fil des 2 jours.
+> Le formateur complète cette grille pour chaque étudiant au fil de la formation (½ journée + 1 journée).
 
 ---
 
@@ -21,12 +21,12 @@
 
 | # | Critère observable | Activité d'observation | Note /3 |
 |---|-------------------|----------------------|---------|
-| 1 | Explique correctement les 4 valeurs du Manifeste Agile | Quiz Kahoot, Jeopardy | /3 |
-| 2 | Distingue les approches Waterfall, Cycle en V et Agile | Jeu des Avions, discussions | /3 |
-| 3 | Identifie les rôles, événements et artefacts de Scrum | Lego Scrum, Projet 60min | /3 |
-| 4 | Comprend les principes de Kanban (flux, WIP, visualisation) | Restaurant Kanban, Tableau Kanban | /3 |
+| 1 | Explique correctement les 4 valeurs du Manifeste Agile | Manifeste Agile Quiz, Jeopardy | /3 |
+| 2 | Distingue les approches Waterfall, Cycle en V et Agile | Brainstorming, Jeu Kapla | /3 |
+| 3 | Identifie les rôles, événements et artefacts de Scrum | Cours Scrum, Atelier US | /3 |
+| 4 | Comprend les principes de Kanban (flux, WIP, visualisation) | Restaurant Kanban | /3 |
 | 5 | Connaît les pratiques clés de l'XP (TDD, Pair Programming, Refactoring) | Atelier TDD, Refactoring Race | /3 |
-| 6 | Sait choisir le framework adapté à un contexte projet | Étude de cas Coach Agile, Projet 60min | /3 |
+| 6 | Sait choisir le framework adapté à un contexte projet | Cours Scrum, Jeopardy | /3 |
 | | **Sous-total C29** | | **/18** |
 
 ---
@@ -36,8 +36,8 @@
 | # | Critère observable | Activité d'observation | Note /3 |
 |---|-------------------|----------------------|---------|
 | 1 | Collabore efficacement en équipe (écoute, partage, contribution) | Toutes les activités de groupe | /3 |
-| 2 | Assume correctement un rôle Agile (PO, SM, Dev) | Lego Scrum, Projet 60min | /3 |
-| 3 | Utilise les outils de planification collaboratifs (tableau Kanban, backlog) | Atelier Kanban, Projet 60min | /3 |
+| 2 | Assume correctement un rôle Agile (PO, SM, Dev) | Jeu Kapla, Cours Scrum | /3 |
+| 3 | Utilise les outils de planification collaboratifs (tableau Kanban, backlog) | Restaurant Kanban, Atelier US | /3 |
 | 4 | Pratique la communication constructive (feedback, revue croisée) | Pair Programming, Sprint Review | /3 |
 | 5 | Accompagne les autres membres de l'équipe | Observation continue | /3 |
 | | **Sous-total C30** | | **/15** |
@@ -48,10 +48,10 @@
 
 | # | Critère observable | Activité d'observation | Note /3 |
 |---|-------------------|----------------------|---------|
-| 1 | Comprend le concept de vélocité et sait l'utiliser | Ball Point Game, Projet 60min | /3 |
-| 2 | Sait définir et suivre des indicateurs (Lead Time, Throughput, Burndown) | Atelier Kanban, Projet 60min | /3 |
+| 1 | Comprend le concept de vélocité et sait l'utiliser | Ball Point Game, Atelier US | /3 |
+| 2 | Sait définir et suivre des indicateurs (Lead Time, Throughput, Burndown) | Restaurant Kanban, Atelier US | /3 |
 | 3 | Utilise les métriques pour prendre des décisions d'amélioration | Ball Point Game (retro entre sprints) | /3 |
-| 4 | Comprend les principes de gestion budgétaire Agile | Cours Adaptation | /3 |
+| 4 | Comprend les principes de gestion budgétaire Agile | Atelier US (chiffrage) | /3 |
 | | **Sous-total C31** | | **/12** |
 
 ---
@@ -60,9 +60,9 @@
 
 | # | Critère observable | Activité d'observation | Note /3 |
 |---|-------------------|----------------------|---------|
-| 1 | Participe activement aux revues de sprint (Review) | Lego Scrum, Sprint Review J2 | /3 |
-| 2 | Sait mener une rétrospective constructive | Lego Scrum retro, Étoile de mer | /3 |
-| 3 | Évalue l'avancement par rapport aux objectifs fixés | Ball Point Game, Projet 60min | /3 |
+| 1 | Participe activement aux revues de sprint (Review) | Jeu Kapla (démos), Sprint Review théorique | /3 |
+| 2 | Sait mener une rétrospective constructive | Jeu Kapla (débrief), Étoile de mer | /3 |
+| 3 | Évalue l'avancement par rapport aux objectifs fixés | Ball Point Game, Atelier US | /3 |
 | 4 | Propose des actions d'amélioration concrètes | Rétrospectives, discussions | /3 |
 | 5 | Donne et reçoit du feedback de manière professionnelle | Revue croisée, Sprint Review | /3 |
 | | **Sous-total C32** | | **/15** |
@@ -117,4 +117,3 @@ _____________________________________________________________
 > **Date :** ___/___/______
 > **Formateur :** ___________________________
 > **Signature :** ___________________________
-

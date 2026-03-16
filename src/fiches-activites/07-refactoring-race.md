@@ -1,6 +1,6 @@
 # 🏁 Fiche Activité — Refactoring Race
 
-> **Jour :** 2 | **Horaire :** 11h15–12h00 | **Durée :** 45 min
+> **Session :** Journée complète | **Horaire :** 14h45–15h30 | **Durée :** 45 min
 
 ---
 

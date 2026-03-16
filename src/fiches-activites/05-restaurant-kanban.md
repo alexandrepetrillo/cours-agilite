@@ -1,6 +1,6 @@
 # 🍽️ Fiche Activité — Le Restaurant Kanban
 
-> **Jour :** 1 | **Horaire :** 15h15–16h00 | **Durée :** 45 min
+> **Session :** Journée complète | **Horaire :** 11h30–12h15 | **Durée :** 45 min
 
 ---
 
@@ -8,8 +8,9 @@
 - Comprendre les principes fondamentaux de Kanban par l'analogie du restaurant
 - Expérimenter l'impact des limites WIP sur le flux de travail
 - Mesurer le Lead Time et comprendre son importance
+- Concevoir un tableau Kanban avec swimlanes et priorités
 
-## 🏷️ Compétences : C29
+## 🏷️ Compétences : C29, C30, C31
 
 ## 👥 Format : Toute la classe participe, divisée en rôles
 
@@ -92,7 +93,7 @@ Préparer des cartes avec différentes complexités :
 
 **⏸️ Comparaison** : afficher les 2 résultats côte à côte
 
-### Phase 3 — Débrief (10 min)
+### Phase 3 — Débrief + Construction Express (15 min)
 
 | Métrique | Round 1 (sans WIP) | Round 2 (avec WIP) |
 |----------|--------------------|--------------------|
@@ -111,6 +112,10 @@ Préparer des cartes avec différentes complexités :
 - **Cycle Time** : temps passé en « traitement actif »
 - **Throughput** : nombre d'items terminés par unité de temps
 - **Cumulative Flow Diagram** : montre visuellement les encours
+
+**Construction Express (5 min) :**
+- Chaque équipe enrichit rapidement son tableau en ajoutant des **swimlanes** et des **priorités** (gommettes couleur)
+- Quand utiliser Kanban vs Scrum ? Discussion rapide
 
 ---
 

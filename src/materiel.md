@@ -1,4 +1,4 @@
-# 🧰 Liste du Matériel — Cours Agile (2 jours)
+# 🧰 Liste du Matériel — Cours Agile (½ journée + 1 journée)
 
 > Checklist à préparer **la veille** du cours. Prévoir pour **5 équipes de 4-5 personnes** (20-25 étudiants).
 
@@ -14,44 +14,62 @@
 | Stylos / crayons | 25 | 1 par étudiant |
 | Grandes feuilles (A1 ou paperboard) | 15 feuilles | Pour les dessins et tableaux |
 | Scotch de masquage (masking tape) | 3 rouleaux | Pour fixer les feuilles au mur |
-| Gommettes de couleur (rouge, jaune, vert) | 3 planches | Pour les priorités Kanban |
+| Gommettes de couleur (rouge, jaune, vert) | 3 planches | Pour les priorités MoSCoW et Kanban |
 | Timer / chronomètre visible | 1 | Ou app projetée (ex: Online Stopwatch) |
-| Projecteur + écran | 1 | Pour slides, Kahoot, démos |
+| Projecteur + écran | 1 | Pour slides, quiz, démos |
 | Tableau blanc ou mur libre | 1-2 | Surface d'affichage |
 | Enceinte bluetooth | 1 | Musique pour les ateliers |
 
 ---
 
-## ✈️ Jeu « Avions en papier » (J1 – 10h30)
+## 🧠 Brainstorming Agilité (Demi-journée – 08h15)
 
 | Matériel | Quantité | Notes |
 |----------|----------|-------|
-| Feuilles A4 blanches | 50+ | Papier standard, pas trop épais |
-| Cible (dessinée) | 1 | Grande cible au sol ou au mur (cercles concentriques) |
+| Post-its (2 couleurs : vert + rouge) | Inclus dans le kit permanent | — |
+| Tableau blanc ou grande feuille | 1 | Pour la mise en commun en 2 colonnes |
 
 ---
 
-## 🧱 Lego Scrum Simulation (J1 – 11h15)
+## 🏗️ Jeu Kapla (Demi-journée – 08h45)
 
 | Matériel | Quantité | Notes |
 |----------|----------|-------|
-| Briques Lego | 5 lots de ~200 pièces | Boîtes Lego Classic ou équivalent. Mélanger les tailles et couleurs |
-| Post-its (pour les User Stories) | Inclus dans le kit permanent | — |
+| Kapla (planchettes en bois) | 5 lots de ~200 planchettes | 1 boîte Kapla 200 par équipe |
+| Photo secrète « Château Fort » | 1 exemplaire | Imprimée en couleur, **formateur uniquement** — Round 1 |
+| Photo secrète « Base Lunaire » | 1 exemplaire | Imprimée en couleur, **formateur uniquement** — Round 2 |
+| Grandes feuilles + marqueurs | Inclus dans le kit permanent | Pour les CDC rédigés par les PO (Round 1) |
+| Appareil photo | 1 | Smartphone suffit — pour les comparaisons finales |
 
-> 💡 **Alternative budget** : utiliser des briques de construction génériques (Mega Bloks, etc.)
+> 💡 **Alternative budget** : blocs de construction en bois type Jenga, ou Lego
+>
+> 📸 **Photos** : choisir des images détaillées avec 5-6 éléments identifiables (tours, murailles, pont-levis / modules, antenne, véhicule…)
 
 ---
 
-## 🍕 Atelier User Stories (J1 – 13h30)
+## 📖 Manifeste Agile Quiz (Demi-journée – 10h15)
+
+| Matériel | Quantité | Notes |
+|----------|----------|-------|
+| Quiz préparé (16 questions) | 1 | Voir `supports/manifeste-agile-quiz.md` — Kahoot, Mentimeter, ou à main levée |
+| Smartphones étudiants | — | Pour Kahoot/Mentimeter |
+
+---
+
+## 📝 Atelier US + Priorisation + Chiffrage (Journée complète – 09h45)
 
 | Matériel | Quantité | Notes |
 |----------|----------|-------|
 | Template User Story imprimé | 50 fiches | Format carte (10x15cm) — voir `/supports/templates/user-story-card.md` |
+| Cartes Planning Poker | 5 jeux (1 par équipe) | Ou imprimer — voir `/supports/templates/planning-poker-cards.md` |
+| Brief projet imprimé | 5 exemplaires | 1 par équipe |
 | Post-its | Inclus dans le kit permanent | — |
+
+> 💡 **Alternative** : utiliser l'app gratuite « Scrum Poker » sur smartphone
 
 ---
 
-## 🏐 Ball Point Game (J1 – 14h15)
+## 🏐 Ball Point Game (Journée complète – 10h45)
 
 | Matériel | Quantité | Notes |
 |----------|----------|-------|
@@ -60,26 +78,18 @@
 
 ---
 
-## 🍽️ Restaurant Kanban (J1 – 15h15)
+## 🍽️ Restaurant Kanban + Tableau (Journée complète – 11h30)
 
 | Matériel | Quantité | Notes |
 |----------|----------|-------|
 | Cartes bristol (petites) | 30-40 | Représentent les « commandes ». Écrire dessus les plats |
 | Grande feuille ou tableau | 1 par équipe | Pour le tableau Kanban physique |
-
----
-
-## 📊 Atelier Tableau Kanban (J1 – 16h00)
-
-| Matériel | Quantité | Notes |
-|----------|----------|-------|
-| Grandes feuilles A0 ou A1 | 5 (1 par équipe) | Pour les tableaux Kanban |
 | Post-its couleur | Inclus dans le kit permanent | Différentes couleurs pour différents types de tâches |
 | Gommettes de priorité | Inclus dans le kit permanent | 🔴🟡🟢 |
 
 ---
 
-## 💻 Atelier Pair Programming & TDD (J2 – 10h15)
+## 💻 Atelier Pair Programming & TDD (Journée complète – 13h55)
 
 | Matériel | Quantité | Notes |
 |----------|----------|-------|
@@ -91,7 +101,7 @@
 
 ---
 
-## 🏁 Refactoring Race (J2 – 11h15)
+## 🏁 Refactoring Race (Journée complète – 14h45)
 
 | Matériel | Quantité | Notes |
 |----------|----------|-------|
@@ -102,31 +112,7 @@
 
 ---
 
-## 🍬 Marshmallow Challenge (J2 – 12h00)
-
-| Matériel | Quantité | Notes |
-|----------|----------|-------|
-| Spaghetti secs | 5 paquets de 20 | 20 spaghetti par équipe |
-| Ficelle | 5 mètres | 1 mètre par équipe |
-| Scotch | 5 mètres | 1 mètre par équipe |
-| Marshmallows | 5+ | 1 par équipe (+ quelques extras) |
-| Mètre ruban | 1 | Pour mesurer les structures |
-
-> ⚠️ **Attention** : prendre des marshmallows standard (pas les mini !). Les gros tiennent mieux.
-
----
-
-## 🃏 Planning Poker (J2 – 14h15)
-
-| Matériel | Quantité | Notes |
-|----------|----------|-------|
-| Jeux de cartes Planning Poker | 5 jeux (1 par équipe) | Ou imprimer les cartes — voir `/supports/templates/planning-poker-cards.md` |
-
-> 💡 **Alternative** : utiliser l'app gratuite « Scrum Poker » sur smartphone
-
----
-
-## 🌟 Rétrospective Étoile de mer (J2 – 15h30)
+## 🌟 Rétrospective Étoile de mer (Journée complète – 15h45)
 
 | Matériel | Quantité | Notes |
 |----------|----------|-------|
@@ -135,25 +121,25 @@
 
 ---
 
-## 🏆 Jeopardy Agile (J2 – 16h15)
+## 🏆 Jeopardy Agile + Clôture (Journée complète – 16h20)
 
 | Matériel | Quantité | Notes |
 |----------|----------|-------|
-| Support Jeopardy | 1 | PowerPoint interactif ou Kahoot — voir `/supports/jeopardy/` |
+| Support Jeopardy | 1 | PowerPoint interactif ou Kahoot |
 | Buzzers (optionnel) | 5 | Ou les équipes lèvent la main |
-| Trophées / prix fun | 5 | Diplômes imprimés, bonbons, stickers... |
+| Trophées / prix fun | 3-5 | Diplômes imprimés, bonbons, stickers... |
 
 ---
 
 ## 📦 Checklist de dernière minute
 
 - [ ] Tester le projecteur et l'accès WiFi
-- [ ] Vérifier que Kahoot fonctionne (créer le quiz en amont)
+- [ ] Vérifier que Kahoot/Mentimeter fonctionne (créer les quiz en amont)
 - [ ] Disposer la salle en îlots (5 tables de 4-5 places)
 - [ ] Préparer les feuilles de paperboard sur les murs
-- [ ] Imprimer les templates et fiches de cas
+- [ ] Imprimer les templates, briefs projet et photos secrètes Kapla (château fort + base lunaire)
 - [ ] Charger les katas et le code spaghetti sur les PCs
 - [ ] Prévoir de l'eau et des snacks (les cerveaux Agiles ont besoin de carburant ! 🧠⚡)
 - [ ] Préparer une playlist de fond (lo-fi, jazz, etc.)
 - [ ] Avoir un backup des slides en PDF (au cas où)
-
+- [ ] Préparer les boîtes de Kapla (une par table)

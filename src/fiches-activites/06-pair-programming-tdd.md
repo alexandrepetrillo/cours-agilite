@@ -1,6 +1,6 @@
 # 👥 Fiche Activité — Pair Programming & TDD (Kata Ping-Pong)
 
-> **Jour :** 2 | **Horaire :** 10h15–11h15 | **Durée :** 1h
+> **Session :** Journée complète | **Horaire :** 13h55–14h45 | **Durée :** 50 min
 
 ---
 
@@ -54,7 +54,7 @@
 - On écrit le code le PLUS SIMPLE possible
 - On refactore quand les tests sont verts
 
-### Kata « Roman Numerals » (40 min)
+### Kata « Roman Numerals » (35 min)
 
 **L'objectif** : écrire une fonction `to_roman(number)` qui convertit un entier en chiffre romain.
 

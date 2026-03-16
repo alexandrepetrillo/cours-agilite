@@ -1,6 +1,8 @@
 # 🍬 Fiche Activité — Marshmallow Challenge
 
-> **Jour :** 2 | **Horaire :** 12h00–12h30 | **Durée :** 30 min
+> ⚠️ **ACTIVITÉ OPTIONNELLE** — Retirée du plan 12h. Peut être utilisée si du temps est disponible ou en remplacement d'une autre activité.
+
+> **Durée :** 30 min
 
 ---
 

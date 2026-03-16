@@ -1,47 +1,41 @@
 # 🚀 Méthodologies Agile — Plan de Cours
 
 > **Module :** BC04 — Gérer les projets numériques et collaborer à l'amélioration continue des SI
-> **Durée :** 2 jours (14 heures)
+> **Durée :** 1,5 jours (12 heures) — ½ journée + 1 journée complète
 > **Public :** Bac+3 Informatique — Alternants
 > **Approche pédagogique :** Ludique, participative, expérientielle
 
 ---
 
-## ⚡ Plan condensé
+## ⚡ Plan condensé (timeline)
 
-### JOUR 1 — Fondamentaux Agile, Scrum & Kanban
+### DEMI-JOURNÉE — Fondamentaux Agile & Scrum (08h15 – 12h15)
 
-| Horaire | Activité | Description |
+| Horaire | Activité | En une ligne |
 |---------|----------|-------------|
-| 09h00 – 09h30 | ⛵ Speedboat Ice-Breaker | Chaque équipe dessine un bateau métaphorique pour se présenter et introduire la pensée Agile |
-| 09h30 – 10h15 | 📖 Manifeste Agile + Quiz Kahoot | Cours interactif sur les 4 valeurs et 12 principes, suivi d'un quiz en temps réel |
-| 10h15 – 10h30 | ☕ Pause | |
-| 10h30 – 11h15 | ✈️ Agile vs Waterfall — Course aux Avions | 2 équipes s'affrontent : une en cascade, une en itératif — qui touche le plus la cible ? |
-| 11h15 – 12h30 | 🧱 Lego Scrum Simulation | Vivre un projet Scrum complet (rôles, 2 sprints, review, retro) en construisant une ville en Lego |
-| 12h30 – 13h30 | 🍽️ Pause déjeuner | |
-| 13h30 – 14h15 | 📝 Atelier User Stories & DoD | Rédiger des User Stories INVEST et une Definition of Done pour une app fictive « Pizza Delivery » |
-| 14h15 – 15h00 | 🏐 Ball Point Game | Faire circuler un max de balles en sprints de 2 min pour découvrir vélocité et estimation |
-| 15h00 – 15h15 | ☕ Pause | |
-| 15h15 – 16h00 | 🍽️ Le Restaurant Kanban | Simulation d'un restaurant pour comprendre flux tiré, limites WIP et Lead Time |
-| 16h00 – 17h00 | 📊 Atelier « Mon Tableau Kanban » | Concevoir un tableau Kanban complet pour organiser un Festival Tech fictif |
-
-### JOUR 2 — Extreme Programming, Mise en Œuvre & Projet Fil Rouge
-
-| Horaire | Activité | Description |
-|---------|----------|-------------|
-| 09h00 – 09h20 | 🎤 Stand-Up Comedy | Daily Stand-up ludique : chaque étudiant partage ce qu'il a retenu, attend et ce qui le bloque |
-| 09h20 – 10h00 | 💻 Cours XP + Live Coding TDD | Découverte des pratiques XP avec une démo live du kata FizzBuzz en TDD |
+| 08h15 – 08h45 | 🧠 Brainstorming « C'est quoi l'Agilité ? » | Faire émerger les représentations des étudiants et introduire Agile vs Cycle en V |
+| 08h45 – 10h00 | 🏗️ Jeu Kapla : Cycle en V puis Agile | Château Fort (photo secrète → CDC → construction → recette) puis Base Lunaire (photo secrète → sprints itératifs avec feedback) |
 | 10h00 – 10h15 | ☕ Pause | |
-| 10h15 – 11h15 | 👥 Pair Programming & TDD | En binômes, coder le kata Roman Numerals en Ping-Pong TDD puis revue croisée |
-| 11h15 – 12h00 | 🏁 Refactoring Race | Compétition chronométrée : refactorer du code spaghetti en équipe sans casser les tests |
-| 12h00 – 12h30 | 🍬 Marshmallow Challenge | Construire la plus haute structure en spaghetti avec un marshmallow au sommet — tester tôt ! |
-| 12h30 – 13h30 | 🍽️ Pause déjeuner | |
-| 13h30 – 14h15 | 🎯 Cours : Adapter l'Agile | Choisir le bon framework selon le contexte + études de cas interactives « Vous êtes Coach Agile » |
-| 14h15 – 15h15 | 🚀 Projet Agile en 60 min | Chaque équipe reçoit un brief projet, choisit un framework, crée un backlog et planifie un sprint |
-| 15h15 – 15h30 | ☕ Pause | |
-| 15h30 – 16h15 | 🎬 Sprint Review & Rétrospective | Présentations des projets + rétrospective collective « Étoile de mer » |
-| 16h15 – 16h45 | 🏆 Jeopardy Agile | Quiz final gamifié en équipes couvrant tous les chapitres + remise des trophées |
-| 16h45 – 17h00 | 🎯 Clôture & ROTI | Feedback ROTI, nuage de 3 mots, ressources pour aller plus loin, photo de groupe |
+| 10h15 – 10h45 | 📖 Manifeste Agile interactif | Chaque valeur/principe présenté via un quiz puis expliqué — format hybride |
+| 10h45 – 12h15 | 🏉 Scrum : rôles, événements, artefacts | Cours interactif avec mises en situation et lien avec le vécu du jeu Kapla |
+
+### JOURNÉE COMPLÈTE — US, Kanban, XP & Clôture (09h00 – 17h00)
+
+| Horaire | Activité | En une ligne |
+|---------|----------|-------------|
+| 09h00 – 09h15 | 🎤 Stand-Up Comedy | Daily Stand-up ludique : chaque étudiant partage ce qu'il a retenu et ses questions |
+| 09h15 – 09h45 | 📝 User Stories & Definition of Done | Cours interactif : format US, critères INVEST, DoD |
+| 09h45 – 10h30 | 🔧 Atelier US + priorisation + chiffrage | Rédaction d'US, priorisation MoSCoW et estimation en Planning Poker |
+| 10h30 – 10h45 | ☕ Pause | |
+| 10h45 – 11h30 | 🏐 Ball Point Game | Faire circuler un max de balles en sprints de 2 min pour découvrir vélocité et estimation |
+| 11h30 – 12h15 | 🍽️ Restaurant Kanban | Simulation d'un restaurant pour comprendre flux tiré, limites WIP et concevoir un tableau Kanban |
+| 12h15 – 13h15 | 🍽️ Pause déjeuner | |
+| 13h15 – 13h55 | 💻 Cours XP + Live Coding TDD | Découverte des pratiques XP avec une démo live du kata FizzBuzz en TDD |
+| 13h55 – 14h45 | 👥 Pair Programming & TDD | En binômes, coder le kata Roman Numerals en Ping-Pong TDD |
+| 14h45 – 15h30 | 🏁 Refactoring Race | Compétition chronométrée : refactorer du code spaghetti en équipe sans casser les tests |
+| 15h30 – 15h45 | ☕ Pause | |
+| 15h45 – 16h20 | 🎬 Sprint Review (théorie) & Rétrospective | Cours Sprint Review + rétrospective « Étoile de mer » sur la formation |
+| 16h20 – 17h00 | 🏆 Jeopardy Agile + Clôture | Quiz final gamifié en équipes + ROTI, nuage de mots et ressources pour aller plus loin |
 
 ---
 
@@ -74,177 +68,246 @@
 - Mettre en œuvre Scrum (rôles, événements, artefacts)
 - Concevoir et utiliser un tableau Kanban
 - Appliquer les pratiques clés de l'Extreme Programming
-- Adapter l'approche Agile au contexte d'un projet réel
+- Rédiger des User Stories, les prioriser et les estimer
 
 ---
 
-# 📅 JOUR 1 — Fondamentaux Agile, Scrum & Kanban
+# 📅 DEMI-JOURNÉE — Fondamentaux Agile & Scrum (08h15 – 12h15)
 
-## 🌅 Matin (09h00 – 12h30)
-
-### 09h00 – 09h30 | ⛵ Ice-Breaker « Speedboat Agile » (30 min)
+### 08h15 – 08h45 | 🧠 Brainstorming « C'est quoi l'Agilité ? » (30 min)
 
 | | |
 |---|---|
-| **Type** | 🎮 Jeu / Atelier collaboratif |
-| **Objectif** | Se connaître, introduire la pensée Agile de manière métaphorique |
+| **Type** | 💬 Brainstorming collaboratif |
+| **Objectif** | Faire émerger les représentations, introduire Agile vs Cycle en V |
 | **Compétences** | C29 |
-| **Matériel** | Grandes feuilles A1 ou tableau blanc, post-its (4 couleurs), marqueurs |
+| **Matériel** | Tableau blanc, post-its (2 couleurs), marqueurs |
+| **Exercice réf.** | Exercice 1 — « Identifiez les valeurs et principes de l'Agilité » (amorce) |
 
 **Déroulé :**
-1. **Former des équipes** de 4-5 personnes (ce seront les équipes pour les 2 jours)
-2. Chaque équipe dessine un **grand bateau** sur une feuille avec :
-   - 🌬️ **Les voiles** (post-its verts) = ce qui nous pousse en avant (motivations, forces)
-   - ⚓ **Les ancres** (post-its rouges) = ce qui nous freine (obstacles, craintes)
-   - 🏝️ **L'île** (post-its bleus) = notre objectif pour ces 2 jours
-   - 🪨 **Les récifs** (post-its oranges) = les risques potentiels
-3. Chaque équipe présente son bateau (2 min/équipe)
-4. **Débrief formateur** : « Vous venez sans le savoir de faire une rétrospective Agile ! »
+1. **Formation des équipes** (3 min) : groupes de 4-5 qui resteront pour toute la formation
+2. **Brainstorming en équipes** (7 min) :
+   - 🟢 Post-its verts : « Pour vous, c'est quoi l'Agilité ? »
+   - 🔴 Post-its rouges : « Comment se passe un projet informatique classique ? »
+3. **Mise en commun** (10 min) : coller au tableau, le formateur fait émerger 2 colonnes (séquentiel vs Agile)
+4. **Structuration** (10 min) : nommer « Cycle en V » vs « Agile », schéma comparatif au tableau, transition vers le jeu Kapla
 
-> 💡 *Ce jeu est directement issu des Innovation Games utilisés en contexte Agile*
+> 💡 *Garder les post-its au mur — ils serviront de référence pendant le Manifeste Agile*
 
 ---
 
-### 09h30 – 10h15 | 📖 Manifeste Agile & Quiz Interactif (45 min)
-
-| | |
-|---|---|
-| **Type** | 📚 Cours interactif + 🎮 Quiz Kahoot |
-| **Objectif** | Comprendre les 4 valeurs et 12 principes du Manifeste Agile |
-| **Compétences** | C29 |
-| **Matériel** | Slides, Kahoot (préparer en amont), smartphones des étudiants |
-| **Exercice réf.** | Exercice 1 — « Identifiez les valeurs et principes de l'Agilité » |
-
-**Déroulé :**
-1. **Présentation interactive** (20 min) :
-   - Histoire de l'Agile : la crise du logiciel des années 90, les 17 signataires
-   - Les **4 valeurs** du Manifeste (avec exemples concrets du monde de l'alternance)
-   - Les **12 principes** illustrés avec des cas réels (Spotify, Netflix, leur entreprise…)
-   - Comparaison Waterfall / Cycle en V / Agile (schéma visuel)
-
-2. **Quiz Kahoot « Agile Master »** (15 min) :
-   - 15 questions rapides sur les valeurs et principes
-   - Questions pièges (ex: « L'Agile c'est pas de documentation » → FAUX)
-   - Classement en temps réel projeté
-
-3. **Mini-débat** (10 min) :
-   - « Dans votre entreprise d'alternance, quelles valeurs Agile sont appliquées ? Lesquelles manquent ? »
-   - Tour de table rapide
-
----
-
-### ☕ 10h15 – 10h30 | Pause (15 min)
-
----
-
-### 10h30 – 11h15 | ✈️ Jeu « Agile vs Waterfall — La Course aux Avions » (45 min)
-
-| | |
-|---|---|
-| **Type** | 🎮 Jeu sérieux / Simulation |
-| **Objectif** | Comprendre viscéralement la différence entre approche séquentielle et itérative |
-| **Compétences** | C29 |
-| **Matériel** | Feuilles A4 (50+), cible dessinée au sol ou au mur, chronomètre |
-
-**Déroulé :**
-1. **Diviser la classe en 2 camps** :
-   - 🏭 **Équipe Waterfall** : doit concevoir l'avion parfait sur papier d'abord (5 min de specs), puis construire 10 avions identiques, puis les tester tous à la fin
-   - 🔄 **Équipe Agile** : fait des sprints de 3 min — conçoit, construit 2-3 avions, les teste, améliore le design, recommence
-
-2. **Objectif** : toucher une cible à 5 mètres avec un maximum d'avions
-
-3. **3 rounds de 3 minutes** pour chaque équipe
-
-4. **Débrief** (15 min) :
-   - Quelle équipe a le plus touché la cible ?
-   - Quelle équipe s'est le plus améliorée entre les rounds ?
-   - Parallèle avec les projets informatiques : feedback rapide, adaptation, droit à l'erreur
-   - Introduction du concept de **Sprint** et d'**amélioration continue**
-
----
-
-### 11h15 – 12h30 | 🧱 Lego Scrum Simulation (1h15)
+### 08h45 – 10h00 | 🏗️ Jeu Kapla : Cycle en V puis Agile (1h15)
 
 | | |
 |---|---|
 | **Type** | 🎮 Simulation immersive |
-| **Objectif** | Vivre un projet Scrum complet avec ses rôles, événements et artefacts |
-| **Compétences** | C29, C30, C32 |
-| **Matériel** | Briques Lego (1 boîte par équipe, ~200 pièces), timer visible, tableau blanc, post-its |
-| **Exercice réf.** | Exercice 2 — « Implémentation de Scrum » (partie 1) |
+| **Objectif** | Ressentir la différence entre approche séquentielle et itérative, expérimenter le rôle du PO |
+| **Compétences** | C29, C30 |
+| **Matériel** | Kapla (~200 planchettes par équipe), timer, photo secrète « Château Fort », photo secrète « Base Lunaire », grandes feuilles |
 
 **Déroulé :**
 
-**Phase 1 — Cours express Scrum (15 min) :**
-- Les 3 rôles : Product Owner 👑, Scrum Master 🛡️, Équipe de Dev 👩‍💻
-- Les événements : Sprint, Planning, Daily, Review, Retro
-- Les artefacts : Product Backlog, Sprint Backlog, Increment
+**🏰 Round 1 — Mode Cycle en V : Le Château Fort (25 min) :**
+- Le formateur possède une **photo secrète d'un château fort** que personne ne voit
+- Chaque équipe désigne **1-2 PO** et le reste = **Constructeurs**
+- **Recueil du besoin** (5 min) : les PO questionnent le formateur-client pour comprendre la photo
+- **Rédaction du CDC** (3 min) : les PO rédigent un cahier des charges sur papier puis le transmettent aux Constructeurs
+- **Construction** (10 min) : les Constructeurs construisent selon le CDC — **interdit de reposer des questions**
+- **Recette** (5 min) : le formateur **révèle la photo** → comparaison côte à côte
 
-**Phase 2 — Attribution des rôles (5 min) :**
-- Chaque équipe désigne 1 PO, 1 SM, le reste = Dev Team
-- Le formateur joue le **Stakeholder** (client final)
+**🚀 Round 2 — Mode Agile : La Base Lunaire (25 min) :**
+- Nouvelle photo secrète : une **base lunaire**
+- **Brief initial** (3 min) : les PO questionnent le formateur pour identifier les éléments principaux, partagent un bref résumé à l'équipe
+- **Sprint 1** (7 min) : construction → démo au client → feedback précis
+- **Sprint 2** (7 min) : correction/adaptation → démo → feedback
+- **Sprint 3** (7 min) : finitions → démo finale → **révélation de la photo** 📸
 
-**Phase 3 — Le Projet « Construisez une Ville » (55 min) :**
+**🎯 Débrief collectif (20 min) :**
+- Comparer : photo château vs constructions | photo base vs constructions
+- Qu'est-ce qui s'est perdu dans le CDC du Round 1 ? Qu'a apporté le feedback itératif du Round 2 ?
+- Faire émerger : itération, feedback, adaptation, rôle du PO, backlog vivant vs CDC figé
 
-Le PO reçoit une **vision** : « Une ville moderne, durable et accueillante »
-
-| Sprint | Durée | Activité |
-|--------|-------|----------|
-| **Backlog Refinement** | 5 min | Le PO rédige 8-10 User Stories sur post-its (ex: « En tant qu'habitant, je veux un parc pour me détendre ») |
-| **Sprint 1 Planning** | 3 min | L'équipe choisit 3-4 stories, estime en tailles de T-shirt (S/M/L) |
-| **Sprint 1 Build** | 8 min | Construction en Lego ! Le SM veille au timebox |
-| **Sprint 1 Review** | 3 min | Démo au Stakeholder (formateur). Feedback : « J'aime le parc mais il manque un hôpital » |
-| **Sprint 1 Retro** | 3 min | Qu'est-ce qui a bien marché ? Qu'est-ce qu'on améliore ? |
-| **Sprint 2 Planning** | 3 min | Ajustement du backlog selon le feedback |
-| **Sprint 2 Build** | 8 min | Construction |
-| **Sprint 2 Review** | 3 min | Démo au Stakeholder |
-| **Sprint 2 Retro** | 3 min | Rétrospective finale |
-
-**Phase 4 — Débrief collectif (10 min) :**
-- Comment le produit a évolué grâce au feedback ?
-- Le PO a-t-il bien priorisé ?
-- Le SM a-t-il protégé l'équipe ?
-- Parallèle avec un vrai projet de dev
-
-> 🏆 *Prix de la plus belle ville, de la meilleure collaboration, du meilleur PO*
+> 📸 *Photographier les constructions — elles serviront de référence tout au long de la formation*
 
 ---
 
-## 🍽️ 12h30 – 13h30 | Pause Déjeuner
+### ☕ 10h00 – 10h15 | Pause (15 min)
 
 ---
 
-## 🌆 Après-midi (13h30 – 17h00)
+### 10h15 – 10h45 | 📖 Manifeste Agile interactif (30 min)
 
-### 13h30 – 14h15 | 📝 Atelier User Stories & Definition of Done (45 min)
+| | |
+|---|---|
+| **Type** | 📚 Cours interactif — quiz/explication intercalé |
+| **Objectif** | Comprendre les 4 valeurs et 12 principes du Manifeste Agile |
+| **Compétences** | C29 |
+| **Matériel** | Slides, quiz (voir `supports/manifeste-agile-quiz.md`), smartphones |
+| **Exercice réf.** | Exercice 1 — « Identifiez les valeurs et principes de l'Agilité » |
+
+**Déroulé :**
+
+Pour chaque valeur/principe, le même cycle :
+1. **Question quiz** → les étudiants votent/répondent
+2. **Explication** → le formateur développe avec un exemple concret
+3. **Lien avec le vécu** → « Vous l'avez vu dans le jeu Kapla quand… »
+
+**Les 4 valeurs** (15 min, ~3-4 min par valeur) :
+- Les **individus et interactions** > processus et outils
+- Un **logiciel fonctionnel** > documentation exhaustive
+- La **collaboration client** > négociation contractuelle
+- L'**adaptation au changement** > suivi d'un plan
+
+**Les 12 principes** (10 min, regroupés par thème) :
+- Satisfaction client, livraisons fréquentes, feedback
+- Collaboration quotidienne, individus motivés, face-à-face
+- Excellence technique, simplicité, auto-organisation
+
+**Mini-débat** (5 min) :
+- « Dans votre entreprise d'alternance, quelles valeurs sont appliquées ? Lesquelles manquent ? »
+
+---
+
+### 10h45 – 12h15 | 🏉 Scrum : rôles, événements, artefacts (1h30)
+
+| | |
+|---|---|
+| **Type** | 📚 Cours interactif + mises en situation |
+| **Objectif** | Maîtriser le framework Scrum dans son intégralité |
+| **Compétences** | C29, C30, C32 |
+| **Matériel** | Slides (voir `supports/structure-slides.md`), quiz (voir `supports/scrum-quiz.md`), tableau blanc, post-its |
+| **Exercice réf.** | Exercice 2 — « Implémentation de Scrum » |
+
+**Déroulé :**
+
+**1. Les 3 rôles Scrum (20 min) :**
+
+| Rôle | Responsabilité | Analogie |
+|------|---------------|----------|
+| 👑 **Product Owner** | Définit QUOI construire, priorise le backlog | Le réalisateur d'un film |
+| 🛡️ **Scrum Master** | Facilite, protège l'équipe, veille au processus | Le coach sportif |
+| 👩‍💻 **Équipe de Dev** | Construit l'incrément, s'auto-organise | Les acteurs et techniciens |
+
+- Quiz : « Qui fait quoi ? » → scénarios à attribuer au bon rôle
+- Lien avec le Kapla : « Qui jouait le rôle de PO / SM dans vos équipes sans le savoir ? »
+
+**2. Les événements Scrum (25 min) :**
+- **Sprint** : timebox de 1-4 semaines, le cœur de Scrum
+- **Sprint Planning** : que fait-on pendant ce sprint ?
+- **Daily Scrum** : 15 min debout, 3 questions
+- **Sprint Review** : démo au stakeholder, feedback
+- **Sprint Retrospective** : qu'est-ce qu'on améliore ?
+- Timeline visuelle d'un sprint projeté au tableau
+- Lien avec le Kapla : « Les démos au client entre les sprints, c'étaient des Sprint Reviews ! »
+
+**3. Les artefacts Scrum (15 min) :**
+- **Product Backlog** : la liste ordonnée de tout ce qu'on veut dans le produit
+- **Sprint Backlog** : le sous-ensemble choisi pour ce sprint + plan
+- **Increment** : le produit fonctionnel à la fin du sprint (= la DoD respectée)
+- Schéma visuel : comment les artefacts s'articulent
+
+**4. Mise en situation « Qui fait quoi ? » (15 min) :**
+- 5-6 scénarios, les équipes identifient rôle / événement / artefact :
+  - « Le client change d'avis sur la couleur du bouton → Qui gère ? Quand ? »
+  - « L'équipe ne finira pas toutes les stories → Que se passe-t-il ? »
+  - « Un bug critique en production → Qui décide de la priorité ? »
+
+**5. La rétrospective : formats et bonnes pratiques (15 min) :**
+- Pourquoi la rétro est le **moteur de l'amélioration continue**
+- Différents formats : Étoile de mer ⭐, 4L (Liked/Learned/Lacked/Longed), Mad/Sad/Glad
+- Comment mener une bonne rétro (safe space, actions concrètes, suivi)
+- « Vous ferez une vraie rétro demain en fin de journée ! »
+
+---
+
+### 🏠 12h15 | Fin de la demi-journée
+
+> **Mission pour la prochaine session** : Observer dans votre quotidien (maison, transport, travail) un processus qui pourrait bénéficier de Kanban. Prenez une photo ou un schéma !
+
+---
+
+---
+
+# 📅 JOURNÉE COMPLÈTE — US, Kanban, XP & Clôture (09h00 – 17h00)
+
+## 🌅 Matin (09h00 – 12h15)
+
+### 09h00 – 09h15 | 🎤 Energizer « Stand-Up Comedy » (15 min)
+
+| | |
+|---|---|
+| **Type** | 🎮 Jeu / Révision |
+| **Objectif** | Revoir la demi-journée précédente, pratiquer le format Daily Stand-up |
+| **Compétences** | C32 |
+| **Matériel** | Timer, bâton de parole (un objet fun : peluche, balle…) |
+
+**Déroulé :**
+1. Tout le monde debout en cercle
+2. Chaque personne a **30 secondes** pour répondre aux 3 questions du Daily :
+   - 🟢 « La dernière fois j'ai appris que… » (une chose retenue)
+   - 🔵 « Aujourd'hui j'attends… » (ce qu'il espère de la journée)
+   - 🔴 « Mon obstacle c'est… » (une question ou incompréhension)
+3. On passe le bâton de parole (si on dépasse → ⏰ BZZZ !)
+4. Le formateur note les obstacles et y répond brièvement
+
+> 💡 *Les étudiants vivent un vrai Daily Scrum sans s'en rendre compte*
+
+---
+
+### 09h15 – 09h45 | 📝 User Stories & Definition of Done (30 min)
+
+| | |
+|---|---|
+| **Type** | 📚 Cours interactif |
+| **Objectif** | Maîtriser la rédaction de User Stories et la Definition of Done |
+| **Compétences** | C29, C30 |
+| **Matériel** | Slides, exemples imprimés |
+| **Exercice réf.** | Exercice 2 — « Implémentation de Scrum » (partie 2) |
+
+**Déroulé :**
+1. **Format User Story** (10 min) :
+   - « **En tant que** [persona], **je veux** [fonctionnalité] **afin de** [bénéfice] »
+   - Exemples bons vs mauvais (quiz : « Est-ce une bonne US ? »)
+   - Les différents types de personas
+
+2. **Critères INVEST** (10 min) :
+   - **I**ndependent, **N**egotiable, **V**aluable, **E**stimable, **S**mall, **T**estable
+   - Pour chaque critère : un exemple concret + un contre-exemple
+   - Quiz rapide : « Cette US est-elle INVEST ? Quel critère viole-t-elle ? »
+
+3. **Definition of Done** (10 min) :
+   - Pourquoi la DoD est essentielle (sans DoD, « terminé » ne veut rien dire)
+   - Exemple de DoD d'une équipe réelle
+   - Différence DoD vs critères d'acceptation d'une US
+
+---
+
+### 09h45 – 10h30 | 🔧 Atelier Rédaction US + Priorisation + Chiffrage (45 min)
 
 | | |
 |---|---|
 | **Type** | 🔧 Atelier pratique |
-| **Objectif** | Maîtriser la rédaction de User Stories et la Definition of Done |
-| **Compétences** | C29, C30 |
-| **Matériel** | Post-its, marqueurs, template User Story imprimé |
-| **Exercice réf.** | Exercice 2 — « Implémentation de Scrum » (partie 2) |
+| **Objectif** | Pratiquer la rédaction, la priorisation et l'estimation |
+| **Compétences** | C29, C30, C31 |
+| **Matériel** | Post-its, marqueurs, templates US imprimés, cartes Planning Poker, brief projet |
+| **Exercice réf.** | Exercice 2 — « Implémentation de Scrum » (partie 3) |
 
 **Déroulé :**
-1. **Cours flash** (10 min) :
-   - Format User Story : « **En tant que** [persona], **je veux** [fonctionnalité] **afin de** [bénéfice] »
-   - Critères **INVEST** (Independent, Negotiable, Valuable, Estimable, Small, Testable)
-   - Definition of Done : quand une story est-elle VRAIMENT terminée ?
+1. **Contexte « 🍕 Pizza Campus »** (5 min) : brief d'une app de commande de pizzas pour le campus
+2. **Rédaction de 8-10 US** en équipes (15 min) : au format standard, sur post-its
+3. **Priorisation MoSCoW** (5 min) : Must 🔴 / Should 🟡 / Could 🟢 / Won't ⚪
+4. **Planning Poker** (15 min) : estimer les stories « Must » en points (Fibonacci)
+5. **Revue croisée express** (5 min) : les équipes échangent et challengent les backlogs
 
-2. **Atelier « 🍕 Agile Pizza Delivery »** (25 min) :
-   - Contexte : « Vous développez une app de livraison de pizza pour le campus »
-   - Chaque équipe rédige **8 User Stories** sur post-its
-   - Priorisation en **MoSCoW** (Must/Should/Could/Won't)
-   - Rédaction de la **Definition of Done** de l'équipe
-
-3. **Revue croisée** (10 min) :
-   - Les équipes échangent leurs backlogs et challengent les stories des autres
-   - Sont-elles INVEST ? La DoD est-elle assez précise ?
+> 🎲 *Le Planning Poker se fait avec de vraies cartes (voir `/supports/templates/planning-poker-cards.md`)*
 
 ---
 
-### 14h15 – 15h00 | 🏐 Ball Point Game (45 min)
+### ☕ 10h30 – 10h45 | Pause (15 min)
+
+---
+
+### 10h45 – 11h30 | 🏐 Ball Point Game (45 min)
 
 | | |
 |---|---|
@@ -256,7 +319,7 @@ Le PO reçoit une **vision** : « Une ville moderne, durable et accueillante »
 **Déroulé :**
 
 **Règles :**
-- Toute l'équipe forme un cercle
+- Toute la classe forme un cercle
 - Chaque balle doit passer par **toutes les mains** et revenir au point de départ
 - La balle ne peut pas être passée à son voisin direct
 - Une balle tombée = -1 point, une balle complétée = +1 point
@@ -281,22 +344,18 @@ Le PO reçoit une **vision** : « Une ville moderne, durable et accueillante »
 
 ---
 
-### ☕ 15h00 – 15h15 | Pause (15 min)
-
----
-
-### 15h15 – 16h00 | 🍽️ Simulation « Le Restaurant Kanban » (45 min)
+### 11h30 – 12h15 | 🍽️ Kanban : Cours + Simulation « Le Restaurant » (45 min)
 
 | | |
 |---|---|
 | **Type** | 📚 Cours interactif + 🎮 Simulation |
-| **Objectif** | Comprendre les principes de Kanban par l'analogie du restaurant |
-| **Compétences** | C29 |
-| **Matériel** | Slides, cartes bristol (commandes), grand tableau, post-its |
-| **Exercice réf.** | Exercice 3 — « Conception d'un tableau Kanban » (début) |
+| **Objectif** | Comprendre les principes de Kanban et concevoir un tableau Kanban |
+| **Compétences** | C29, C30, C31 |
+| **Matériel** | Slides, cartes bristol (commandes), grand tableau, post-its, gommettes |
+| **Exercice réf.** | Exercice 3 — « Conception d'un tableau Kanban » |
 
 **Déroulé :**
-1. **La métaphore du restaurant** (15 min) :
+1. **La métaphore du restaurant** (10 min) :
    - Les commandes = les cartes/tickets
    - La cuisine = le workflow (Commande reçue → En préparation → Cuisson → Dressage → Service)
    - Le nombre de feux = la **limite WIP**
@@ -310,83 +369,21 @@ Le PO reçoit une **vision** : « Une ville moderne, durable et accueillante »
    - **Round 2** : limite WIP de 3 par colonne → observer la fluidité
    - Mesurer le Lead Time moyen de chaque round
 
-3. **Débrief** (10 min) :
+3. **Débrief + Construction Express** (15 min) :
    - Principes Kanban : flux tiré, visualisation, limites WIP, amélioration continue
    - Métriques : Lead Time, Cycle Time, Throughput
-   - Cumulative Flow Diagram (explication visuelle)
+   - Chaque équipe enrichit rapidement son tableau en ajoutant des **swimlanes** et des **priorités** (gommettes couleur)
+   - Quand utiliser Kanban vs Scrum ?
 
 ---
 
-### 16h00 – 17h00 | 📊 Atelier « Mon Tableau Kanban » (1h)
-
-| | |
-|---|---|
-| **Type** | 🔧 Atelier pratique |
-| **Objectif** | Concevoir et utiliser un tableau Kanban complet |
-| **Compétences** | C29, C30, C31 |
-| **Matériel** | Grand tableau / feuille A0, post-its couleur, marqueurs, gommettes |
-| **Exercice réf.** | Exercice 3 — « Conception d'un tableau Kanban » (complet) |
-
-**Déroulé :**
-1. **Contexte** (5 min) :
-   - « Votre équipe organise un **Festival Tech** sur le campus. Vous avez 4 semaines. »
-   - Brief : site web, billetterie, programme, communication, logistique, sponsors
-
-2. **Construction du tableau** (25 min) :
-   - Définir les **colonnes** (Backlog → Analyse → En cours → Review → Déployé)
-   - Ajouter des **swimlanes** (par domaine : Tech, Communication, Logistique)
-   - Définir les **limites WIP** par colonne
-   - Rédiger et placer **15-20 tickets** sur le tableau
-   - Utiliser des gommettes de couleur pour la priorité (🔴 critique, 🟡 normal, 🟢 nice-to-have)
-
-3. **Simulation de flux** (20 min) :
-   - Le formateur joue le temps qui passe (« C'est semaine 2 ! »)
-   - Les équipes déplacent leurs tickets, gèrent les blocages
-   - Introduction de **perturbations** (« Le sponsor principal se retire ! », « Bug critique sur le site ! »)
-   - Observer comment le tableau aide à visualiser et prioriser
-
-4. **Présentation et Débrief** (10 min) :
-   - Chaque équipe présente son tableau (2 min)
-   - Quels enseignements ? Quand utiliser Kanban vs Scrum ?
-   - Cas d'usage en entreprise
+## 🍽️ 12h15 – 13h15 | Pause Déjeuner
 
 ---
 
-### 🏠 17h00 | Fin du Jour 1
+## 🌆 Après-midi (13h15 – 17h00)
 
-> **Mission pour demain** : Observer dans votre quotidien (maison, transport, travail) un processus qui pourrait bénéficier de Kanban. Prenez une photo ou un schéma !
-
----
-
----
-
-# 📅 JOUR 2 — Extreme Programming, Mise en Œuvre & Projet Fil Rouge
-
-## 🌅 Matin (09h00 – 12h30)
-
-### 09h00 – 09h20 | 🎤 Energizer « Stand-Up Comedy » (20 min)
-
-| | |
-|---|---|
-| **Type** | 🎮 Jeu / Révision |
-| **Objectif** | Revoir le J1, pratiquer le format Daily Stand-up |
-| **Compétences** | C32 |
-| **Matériel** | Timer, bâton de parole (un objet fun : peluche, balle…) |
-
-**Déroulé :**
-1. Tout le monde debout en cercle
-2. Chaque personne a **1 minute** pour répondre aux 3 questions du Daily :
-   - 🟢 « Hier j'ai appris que… » (une chose retenue du J1)
-   - 🔵 « Aujourd'hui j'attends… » (ce qu'il espère du J2)
-   - 🔴 « Mon obstacle c'est… » (une question ou incompréhension)
-3. On passe le bâton de parole (si on dépasse 1 min → ⏰ BZZZ !)
-4. Le formateur note les obstacles et y répond brièvement
-
-> 💡 *Les étudiants vivent un vrai Daily Scrum sans s'en rendre compte*
-
----
-
-### 09h20 – 10h00 | 💻 Cours Extreme Programming + Live Coding (40 min)
+### 13h15 – 13h55 | 💻 Cours Extreme Programming + Live Coding (40 min)
 
 | | |
 |---|---|
@@ -413,11 +410,7 @@ Le PO reçoit une **vision** : « Une ville moderne, durable et accueillante »
 
 ---
 
-### ☕ 10h00 – 10h15 | Pause (15 min)
-
----
-
-### 10h15 – 11h15 | 👥 Atelier Pair Programming & TDD (1h)
+### 13h55 – 14h45 | 👥 Atelier Pair Programming & TDD (50 min)
 
 | | |
 |---|---|
@@ -428,283 +421,126 @@ Le PO reçoit une **vision** : « Une ville moderne, durable et accueillante »
 | **Exercice réf.** | Exercice 4 — « Pratiques clés de l'Extreme Programming » |
 
 **Déroulé :**
-1. **Formation des binômes** (5 min) : piocher un binôme au hasard (cartes à jouer : les mêmes numéros forment un binôme)
+1. **Formation des binômes** (5 min) : piocher un binôme au hasard (cartes à jouer)
 
-2. **Kata « Roman Numerals » en Ping-Pong TDD** (40 min) :
-   - **Règle du Ping-Pong** :
-     - 🏓 Joueur A écrit un test qui échoue (RED)
-     - 🏓 Joueur B écrit le code minimum pour le faire passer (GREEN)
-     - 🏓 Joueur B écrit le prochain test qui échoue (RED)
-     - 🏓 Joueur A écrit le code pour le faire passer (GREEN)
-     - Rotation toutes les 2-3 minutes
-   - Progression : 1→I, 2→II, 3→III, 4→IV, 5→V, 9→IX, 10→X, etc.
+2. **Kata « Roman Numerals » en Ping-Pong TDD** (35 min) :
+   - 🏓 Joueur A écrit un test qui échoue (RED)
+   - 🏓 Joueur B écrit le code minimum pour le faire passer (GREEN)
+   - 🏓 Joueur B écrit le prochain test qui échoue (RED)
+   - 🏓 Joueur A écrit le code pour le faire passer (GREEN)
+   - Rotation toutes les 2-3 minutes
+   - Progression : 1→I, 2→II, 3→III, 4→IV, 5→V, 9→IX, 10→X…
 
-3. **Revue de code croisée** (15 min) :
+3. **Revue de code croisée express** (10 min) :
    - Les binômes échangent leur code
-   - Chaque binôme fait une mini code review (lisibilité, nommage, couverture de tests)
-   - Feedback constructif
+   - Mini code review (lisibilité, nommage, couverture de tests)
 
 > 🎯 *Variante pour les plus rapides : kata « String Calculator »*
 
 ---
 
-### 11h15 – 12h00 | 🏁 Jeu « Refactoring Race » (45 min)
+### 14h45 – 15h30 | 🏁 Jeu « Refactoring Race » (45 min)
 
 | | |
 |---|---|
 | **Type** | 🎮 Compétition ludique |
 | **Objectif** | Pratiquer le refactoring et comprendre la qualité logicielle |
 | **Compétences** | C29 |
-| **Matériel** | PCs, code spaghetti préparé (voir fichier supports/refactoring-race/), chronomètre |
+| **Matériel** | PCs, code spaghetti préparé (voir `supports/refactoring-race/`), chronomètre |
 | **Exercice réf.** | Exercice 4 — suite |
 
 **Déroulé :**
 1. **Présentation du challenge** (5 min) :
    - Chaque équipe reçoit le **même code spaghetti** (100-150 lignes)
-   - Le code fonctionne… mais il est horrible (noms de variables cryptiques, fonctions de 80 lignes, code dupliqué, pas de tests)
-   - Objectif : le refactorer en 20 minutes
+   - Objectif : le refactorer en 20 minutes sans casser les tests
 
 2. **La course !** (20 min) :
-   - Timer affiché au mur
-   - Musique de fond énergique 🎵
-   - Les équipes refactorent : extraction de fonctions, renommage, suppression de duplication, ajout de tests
-   - Le code doit toujours fonctionner ! (les tests existants doivent passer)
+   - Timer affiché, musique de fond énergique 🎵
+   - Extraction de fonctions, renommage, suppression de duplication, ajout de tests
 
 3. **Scoring et revue croisée** (15 min) :
-   - Grille de points :
-     - ✅ Tests passent toujours : +10 points
-     - 📝 Nommage clair : +5 points
-     - 🧩 Fonctions < 20 lignes : +5 points
-     - 🔁 Pas de duplication : +5 points
-     - 🧪 Nouveaux tests ajoutés : +3 points par test
-     - 💡 Principes SOLID appliqués : +5 points bonus
-   - Revue croisée entre équipes
-   - Annonce du classement
+   - ✅ Tests passent toujours : +10 pts | 📝 Nommage clair : +5 pts
+   - 🧩 Fonctions < 20 lignes : +5 pts | 🔁 Pas de duplication : +5 pts
+   - 🧪 Nouveaux tests : +3 pts/test | 💡 SOLID : +5 pts bonus
 
-4. **Débrief** (5 min) :
-   - Pourquoi le refactoring est crucial en Agile ?
-   - La dette technique : le coût de ne pas refactorer
-   - Lien avec l'intégration continue
+4. **Débrief** (5 min) : dette technique, refactoring continu, lien avec l'intégration continue
 
 ---
 
-### 12h00 – 12h30 | 🍬 Marshmallow Challenge (30 min)
+### ☕ 15h30 – 15h45 | Pause (15 min)
+
+---
+
+### 15h45 – 16h20 | 🎬 Sprint Review (théorie) & Rétrospective (35 min)
 
 | | |
 |---|---|
-| **Type** | 🎮 Jeu sérieux |
-| **Objectif** | Expérimenter l'itération, le prototypage rapide et l'échec constructif |
-| **Compétences** | C29, C30 |
-| **Matériel** | Par équipe : 20 spaghetti secs, 1m de ficelle, 1m de scotch, 1 marshmallow, mètre ruban |
-
-**Déroulé :**
-1. **Règles** (2 min) :
-   - Construire la **structure autoportante la plus haute possible**
-   - Le marshmallow doit être **au sommet** (entier, pas coupé)
-   - Temps : **18 minutes**
-   - On ne peut utiliser QUE le matériel fourni
-
-2. **Construction** (18 min) :
-   - Timer affiché
-   - Le formateur observe et prend des notes (qui planifie trop ? qui teste tôt ?)
-
-3. **Mesure et débrief** (10 min) :
-   - Mesure de chaque structure
-   - 🏆 Podium !
-   - **La leçon clé** (vidéo Tom Wujec recommandée) :
-     - Les enfants de maternelle battent souvent les MBA → pourquoi ?
-     - Ils testent le marshmallow TOUT DE SUITE (= prototype early)
-     - Les MBA planifient tout puis découvrent à la fin que ça ne tient pas (= big design upfront)
-     - **Message Agile** : testez tôt, échouez vite, itérez !
-
----
-
-## 🍽️ 12h30 – 13h30 | Pause Déjeuner
-
----
-
-## 🌆 Après-midi (13h30 – 17h00)
-
-### 13h30 – 14h15 | 🎯 Cours : Adapter l'Agile à son Contexte (45 min)
-
-| | |
-|---|---|
-| **Type** | 📚 Cours + Étude de cas interactive |
-| **Objectif** | Savoir choisir et adapter le bon framework Agile |
-| **Compétences** | C29, C31 |
-| **Matériel** | Slides, fiches de cas imprimées |
-
-**Déroulé :**
-1. **Quand utiliser quoi ?** (15 min) :
-
-   | Critère | Scrum | Kanban | XP |
-   |---------|-------|--------|----|
-   | Équipe dédiée | ✅ Oui | ⚡ Pas forcément | ✅ Oui |
-   | Sprints fixes | ✅ Oui | ❌ Non | ✅ Oui |
-   | Rôles définis | ✅ 3 rôles | ❌ Pas de rôle imposé | ✅ Coach, Client |
-   | Idéal pour | Projets complexes | Support, maintenance | Qualité logicielle |
-
-2. **Gestion du changement en Agile** (10 min) :
-   - Accueillir le changement vs le subir
-   - Le rôle du Product Backlog comme outil vivant
-   - Impact mapping et story mapping
-
-3. **Gestion des risques** (10 min) :
-   - Identification des risques en Sprint Planning
-   - Risk Burndown Chart
-   - « Fail fast, learn faster »
-
-4. **Étude de cas interactive « Vous êtes Coach Agile »** (10 min) :
-   - 3 scénarios présentés (startup, ESN, service public)
-   - Vote à main levée : Scrum, Kanban, XP ou hybride ?
-   - Discussion et argumentation
-
----
-
-### 14h15 – 15h15 | 🚀 Atelier « Projet Agile en 60 min » (1h)
-
-| | |
-|---|---|
-| **Type** | 🔧 Atelier immersif |
-| **Objectif** | Mettre en œuvre toutes les compétences Agile acquises |
-| **Compétences** | C29, C30, C31, C32 |
-| **Matériel** | Cartes Planning Poker, post-its, grandes feuilles, marqueurs, templates imprimés |
-| **Exercice réf.** | Exercice 5 — « Adaptation de l'approche Agile à un projet spécifique » |
-
-**Déroulé :**
-
-**Contexte** : Chaque équipe reçoit un **brief projet** différent (tirage au sort) :
-- 🚗 App de covoiturage pour le campus
-- 🎮 Plateforme de tournois e-sport
-- 🌱 App de suivi d'empreinte carbone personnelle
-- 📚 Marketplace de notes de cours entre étudiants
-- 🏥 Système de prise de RDV médical en ligne
-
-**Étapes :**
-
-| Temps | Activité | Livrable |
-|-------|----------|----------|
-| 5 min | **Choix du framework** et justification | Fiche « Pourquoi ce framework » |
-| 5 min | **Constitution de l'équipe** et attribution des rôles | Organigramme |
-| 15 min | **Création du Product Backlog** (10-15 User Stories) | Backlog priorisé |
-| 10 min | **Sprint Planning** avec Planning Poker | Sprint Backlog avec estimations |
-| 10 min | **Définition des indicateurs** : vélocité cible, Definition of Done, burndown chart prévisionnel | Tableau de bord |
-| 5 min | **Identification des risques** et plan de mitigation | Matrice des risques |
-| 10 min | **Préparation de la présentation** | Support visuel |
-
-> 🎲 *Le Planning Poker se fait avec de vraies cartes (ou l'app Scrum Poker)*
-
----
-
-### ☕ 15h15 – 15h30 | Pause (15 min)
-
----
-
-### 15h30 – 16h15 | 🎬 Sprint Review & Rétrospective (45 min)
-
-| | |
-|---|---|
-| **Type** | 🎮 Simulation + Débat |
-| **Objectif** | Pratiquer la Sprint Review et la rétrospective |
+| **Type** | 📚 Cours + 🎮 Atelier participatif |
+| **Objectif** | Comprendre la Sprint Review, pratiquer la rétrospective |
 | **Compétences** | C30, C32 |
-| **Matériel** | Timer, tableau « Étoile de mer », post-its |
+| **Matériel** | Slides, tableau « Étoile de mer », post-its |
 
 **Déroulé :**
 
-**Phase 1 — Sprint Review simulée (25 min) :**
-- Chaque équipe **présente son projet** (5 min/équipe) :
-  - Le framework choisi et pourquoi
-  - Le backlog et les priorités
-  - Le plan de Sprint 1
-  - Les indicateurs définis
-  - Les risques identifiés
-- Les **autres équipes jouent les stakeholders** :
-  - Poser des questions
-  - Challenger les choix
-  - Donner du feedback constructif
+**Phase 1 — Sprint Review : théorie (10 min) :**
+- Qu'est-ce qu'une Sprint Review ? Qui participe ? Quand ? Quel livrable ?
+- Rappel du vécu : « Dans le jeu Kapla, les démos au client entre les sprints, c'étaient des Sprint Reviews ! »
+- Différence Review (inspecter le produit) vs Rétrospective (inspecter le processus)
 
-**Phase 2 — Rétrospective « Étoile de mer » 🌟 (20 min) :**
+**Phase 2 — Rétrospective « Étoile de mer » 🌟 (25 min) :**
 - Dessiner une grande étoile à 5 branches au tableau :
-  - ▶️ **Continuer** : ce qui a bien fonctionné pendant ces 2 jours
+  - ▶️ **Continuer** : ce qui a bien fonctionné pendant la formation
   - ➕ **Plus de** : ce qu'on voudrait plus
   - 🆕 **Commencer** : ce qu'on n'a pas fait mais qu'on devrait faire
   - ➖ **Moins de** : ce qu'on devrait réduire
   - ⏹️ **Arrêter** : ce qui n'a pas fonctionné
 - Chaque personne colle 1 post-it par branche (5 min)
 - Lecture collective et discussion (15 min)
+- Le formateur identifie 2-3 actions concrètes → « Voilà ce qu'une vraie rétro produit ! »
 
 ---
 
-### 16h15 – 16h45 | 🏆 Quiz Final « Jeopardy Agile » (30 min)
+### 16h20 – 17h00 | 🏆 Quiz Final « Jeopardy Agile » + Clôture (40 min)
 
 | | |
 |---|---|
-| **Type** | 🎮 Quiz gamifié |
-| **Objectif** | Réviser tous les chapitres de manière ludique |
+| **Type** | 🎮 Quiz gamifié + 📋 Clôture |
+| **Objectif** | Réviser tous les chapitres et clôturer la formation |
 | **Compétences** | C29, C30, C31, C32 |
 | **Matériel** | Support Jeopardy (Kahoot, PowerPoint interactif, ou tableau physique) |
 
 **Déroulé :**
 
-**Tableau Jeopardy :**
+**Jeopardy (25 min) :**
 
 | Points | Manifeste Agile | Scrum | Kanban | XP | Agile IRL |
 |--------|----------------|-------|--------|----|-----------|
 | 100 | Facile | Facile | Facile | Facile | Facile |
 | 200 | Moyen | Moyen | Moyen | Moyen | Moyen |
 | 300 | Difficile | Difficile | Difficile | Difficile | Difficile |
-| 500 | Expert 🔥 | Expert 🔥 | Expert 🔥 | Expert 🔥 | Expert 🔥 |
 
 **Exemples de questions :**
 - 100 Scrum : « Combien de rôles y a-t-il dans Scrum ? » → 3
 - 200 Kanban : « Comment appelle-t-on la limite du nombre de tâches en cours ? » → WIP Limit
 - 300 XP : « Dans le Ping-Pong TDD, que fait le joueur B après que A a écrit un test ? » → Écrit le code minimum pour le faire passer
-- 500 Manifeste : « Citez les 4 valeurs du Manifeste Agile dans l'ordre » → 🔥
 
 **Règles :**
 - Les équipes choisissent une catégorie et un niveau de points
 - 30 secondes pour répondre
 - Mauvaise réponse = les autres équipes peuvent voler les points
-- **Daily Double** : une case mystère qui double les points !
 
 **Remise des trophées 🏆 :**
 - 🥇 Équipe la plus Agile (meilleur score global)
-- 👑 Meilleur Product Owner
-- 🛡️ Meilleur Scrum Master
-- 💡 Question la plus pertinente
-- 🎨 Plus beau tableau Kanban
+- 💡 Question la plus pertinente de la formation
+- 🏗️ Plus belle construction Kapla
 
----
-
-### 16h45 – 17h00 | 🎯 Clôture & ROTI (15 min)
-
-| | |
-|---|---|
-| **Type** | 📋 Feedback / Clôture |
-| **Objectif** | Mesurer la satisfaction et ancrer les apprentissages |
-| **Compétences** | C32 |
-| **Matériel** | — |
-
-**Déroulé :**
-1. **ROTI — Return On Time Invested** (5 min) :
-   - Vote à main levée de 1 à 5 :
-     - 1 = 😞 Perte de temps
-     - 2 = 😐 Peu utile
-     - 3 = 🙂 Correct
-     - 4 = 😊 Très bien
-     - 5 = 🤩 Excellent !
-   - Le formateur note et commente
-
-2. **3 mots pour résumer** (5 min) :
-   - Chaque étudiant donne 3 mots qui résument ces 2 jours
-   - Le formateur les écrit en vrac au tableau → un **nuage de mots** émerge
-
-3. **Ressources pour aller plus loin** (3 min) :
+**Clôture & ROTI (15 min) :**
+1. **ROTI — Return On Time Invested** : Vote à main levée de 1 à 5
+2. **3 mots pour résumer** : Chaque étudiant donne 3 mots → un **nuage de mots** émerge
+3. **Ressources pour aller plus loin** :
    - 📖 Livres recommandés (voir bibliographie)
    - 🎥 Vidéos : « Spotify Engineering Culture », « Agile Product Ownership in a Nutshell »
    - 🌐 Sites : Scrum.org, Kanbanize.com, Agile Alliance
-   - 🎮 Jeux pour continuer : Scrum Lego City (avancé), Kanban Pizza Game
-
 4. **Photo de groupe** 📸 et fin du module !
 
 ---
@@ -713,10 +549,10 @@ Le PO reçoit une **vision** : « Une ville moderne, durable et accueillante »
 
 | Compétence | Activités qui la couvrent |
 |-----------|--------------------------|
-| **C29** | Speedboat, Quiz Manifeste, Avions, Lego Scrum, User Stories, Restaurant Kanban, Tableau Kanban, Cours XP, Pair Programming, Refactoring Race, Marshmallow, Cours Adaptation, Projet 60min, Jeopardy |
-| **C30** | Lego Scrum, User Stories, Tableau Kanban, Pair Programming, Marshmallow, Projet 60min, Sprint Review |
-| **C31** | Ball Point Game, Tableau Kanban, Cours Adaptation, Projet 60min, Jeopardy |
-| **C32** | Lego Scrum, Ball Point Game, Stand-Up Comedy, Projet 60min, Sprint Review, Rétrospective, ROTI, Jeopardy |
+| **C29** | Brainstorming, Jeu Kapla, Manifeste Agile, Cours Scrum, US & DoD, Atelier US, Restaurant Kanban, Cours XP, Pair Programming, Refactoring Race, Jeopardy |
+| **C30** | Jeu Kapla, Cours Scrum, US & DoD, Atelier US, Restaurant Kanban, Pair Programming, Sprint Review & Retro |
+| **C31** | Atelier US (chiffrage), Ball Point Game, Restaurant Kanban, Jeopardy |
+| **C32** | Cours Scrum, Ball Point Game, Stand-Up Comedy, Sprint Review & Retro, ROTI, Jeopardy |
 
 ---
 
@@ -724,11 +560,11 @@ Le PO reçoit une **vision** : « Une ville moderne, durable et accueillante »
 
 | Exercice | Activité(s) correspondante(s) |
 |----------|------------------------------|
-| **Exercice 1** — Valeurs et principes | Quiz Kahoot Manifeste + Débat en entreprise |
-| **Exercice 2** — Implémentation Scrum | Lego Scrum + Atelier User Stories + Ball Point Game |
-| **Exercice 3** — Tableau Kanban | Restaurant Kanban + Atelier « Mon Tableau Kanban » |
+| **Exercice 1** — Valeurs et principes | Brainstorming + Manifeste Agile interactif |
+| **Exercice 2** — Implémentation Scrum | Jeu Kapla + Cours Scrum + Atelier US/priorisation/chiffrage |
+| **Exercice 3** — Tableau Kanban | Restaurant Kanban (simulation + construction express) |
 | **Exercice 4** — Pratiques XP | Pair Programming TDD + Refactoring Race |
-| **Exercice 5** — Adaptation Agile | Projet Agile en 60 min + Sprint Review |
+| **Exercice 5** — Adaptation Agile | Cours Scrum (comparaison frameworks) + Jeu Kapla (adaptation au contexte) |
 
 ---
 
@@ -739,4 +575,3 @@ Le PO reçoit une **vision** : « Une ville moderne, durable et accueillante »
 - Kniberg, H. (2014). *Kanban et Scrum, tirer le meilleur des deux*. Norsys.
 - Beck, K. (2004). *Extreme Programming Explained*. Addison-Wesley.
 - Sutherland, J. (2014). *Scrum: The Art of Doing Twice the Work in Half the Time*. Crown Business.
-

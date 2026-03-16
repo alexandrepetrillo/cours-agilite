@@ -1,6 +1,6 @@
 # 🏐 Fiche Activité — Ball Point Game
 
-> **Jour :** 1 | **Horaire :** 14h15–15h00 | **Durée :** 45 min
+> **Session :** Journée complète | **Horaire :** 10h45–11h30 | **Durée :** 45 min
 
 ---
 

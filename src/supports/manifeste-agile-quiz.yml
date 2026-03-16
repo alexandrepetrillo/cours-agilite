@@ -1,0 +1,180 @@
+# Quiz Manifeste Agile - Format YAML
+# 16 questions : 4 valeurs + 12 principes
+# À importer dans Kahoot, Mentimeter ou tout outil compatible
+
+title: "Quiz Manifeste Agile 🚀"
+description: "Testez vos connaissances sur les 4 valeurs et 12 principes du Manifeste Agile"
+
+questions:
+  # =============================================
+  # LES 4 VALEURS
+  # =============================================
+
+  # Valeur 1 — Individus et interactions
+  - text: "Dans le Manifeste Agile, qu'est-ce qui est valorisé PAR-DESSUS les processus et les outils ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "La documentation détaillée"
+      - "Les individus et leurs interactions"
+      - "Le suivi du plan de projet"
+      - "La négociation contractuelle"
+    correctAnswer: 1
+
+  # Valeur 2 — Logiciel fonctionnel
+  - text: "Selon le Manifeste Agile, il ne faut plus écrire de documentation."
+    type: VRAI_FAUX
+    timeLimit: 15
+    points: 1000
+    correctAnswer: false
+
+  # Valeur 3 — Collaboration avec le client
+  - text: "Que privilégie le Manifeste Agile par rapport à la négociation contractuelle ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "Un cahier des charges plus détaillé"
+      - "Des réunions de suivi plus fréquentes"
+      - "La collaboration avec le client"
+    correctAnswer: 2
+
+  # Valeur 4 — Adaptation au changement
+  - text: "Selon le Manifeste Agile, face à un changement de besoin en cours de projet, quelle est la bonne attitude ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "Refuser car ce n'est pas dans le cahier des charges initial"
+      - "Accepter uniquement si le client paie un supplément"
+      - "Accueillir le changement comme une opportunité d'amélioration"
+      - "Reporter le changement à la prochaine version"
+    correctAnswer: 2
+
+  # =============================================
+  # LES 12 PRINCIPES
+  # =============================================
+
+  # Principe 1 — Satisfaction du client
+  - text: "Quelle est la plus haute priorité selon le premier principe Agile ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "Respecter le budget du projet"
+      - "Satisfaire le client par la livraison rapide et continue de logiciel de valeur"
+      - "Produire une documentation exhaustive"
+      - "Suivre le plan de projet initial"
+    correctAnswer: 1
+
+  # Principe 2 — Accueillir le changement
+  - text: "En Agile, les changements de besoin sont acceptés même tard dans le développement."
+    type: VRAI_FAUX
+    timeLimit: 15
+    points: 1000
+    correctAnswer: true
+
+  # Principe 3 — Livraisons fréquentes
+  - text: "Selon le Manifeste Agile, à quelle fréquence faut-il livrer un logiciel fonctionnel ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "Une fois par an"
+      - "À la fin du projet"
+      - "De quelques semaines à quelques mois, avec une préférence pour les délais courts"
+    correctAnswer: 2
+
+  # Principe 4 — Collaboration quotidienne
+  - text: "Qui doit travailler ensemble quotidiennement selon le Manifeste Agile ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "Les développeurs et les testeurs"
+      - "Les utilisateurs ou leurs représentants et les développeurs"
+      - "Le chef de projet et la direction"
+      - "Les commerciaux et les développeurs"
+    correctAnswer: 1
+
+  # Principe 5 — Individus motivés
+  - text: "Selon le Manifeste Agile, il faut micro-manager les développeurs pour s'assurer qu'ils travaillent correctement."
+    type: VRAI_FAUX
+    timeLimit: 15
+    points: 1000
+    correctAnswer: false
+
+  # Principe 6 — Communication en face-à-face
+  - text: "Quel est le moyen de communication le plus efficace selon le Manifeste Agile ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "L'email détaillé"
+      - "La visioconférence"
+      - "Le ticket Jira bien rédigé"
+      - "La conversation en face-à-face"
+    correctAnswer: 3
+
+  # Principe 7 — Logiciel opérationnel
+  - text: "Quelle est la principale mesure d'avancement d'un projet Agile ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "Le pourcentage du budget consommé"
+      - "Le nombre de documents produits"
+      - "Un logiciel opérationnel"
+      - "Le nombre de réunions effectuées"
+    correctAnswer: 2
+
+  # Principe 8 — Rythme soutenable
+  - text: "En Agile, il est normal de faire des heures supplémentaires intensives avant chaque livraison."
+    type: VRAI_FAUX
+    timeLimit: 15
+    points: 1000
+    correctAnswer: false
+
+  # Principe 9 — Excellence technique
+  - text: "Que favorise une attention continue à l'excellence technique selon le Manifeste Agile ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "La réduction des coûts"
+      - "L'agilité (la capacité à s'adapter)"
+      - "La satisfaction du management"
+    correctAnswer: 1
+
+  # Principe 10 — Simplicité
+  - text: "Comment le Manifeste Agile définit-il la simplicité ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "Utiliser les technologies les plus simples"
+      - "Réduire le nombre de développeurs"
+      - "Maximiser la quantité de travail qu'on ne fait pas"
+      - "Écrire le moins de code possible"
+    correctAnswer: 2
+
+  # Principe 11 — Auto-organisation
+  - text: "D'où émergent les meilleures architectures et conceptions selon le Manifeste Agile ?"
+    type: QCM
+    timeLimit: 20
+    points: 1000
+    answers:
+      - "Des architectes seniors"
+      - "De la direction technique"
+      - "D'équipes auto-organisées"
+      - "Des consultants externes"
+    correctAnswer: 2
+
+  # Principe 12 — Réflexion et ajustement
+  - text: "En Agile, l'équipe réfléchit régulièrement à comment devenir plus efficace et ajuste son comportement en conséquence."
+    type: VRAI_FAUX
+    timeLimit: 15
+    points: 1000
+    correctAnswer: true
+

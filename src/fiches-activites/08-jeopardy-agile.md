@@ -1,6 +1,6 @@
 # 🏆 Fiche Activité — Jeopardy Agile (Quiz Final)
 
-> **Jour :** 2 | **Horaire :** 16h15–16h45 | **Durée :** 30 min
+> **Session :** Journée complète | **Horaire :** 16h20–17h00 | **Durée :** 40 min (inclut la clôture ROTI)
 
 ---
 
@@ -141,8 +141,8 @@
 | Trophée | Critère |
 |---------|---------|
 | 🥇 **Équipe la plus Agile** | Meilleur score global au Jeopardy |
-| 👑 **Meilleur Product Owner** | Observation sur les 2 jours (Lego Scrum + Projet 60min) |
-| 🛡️ **Meilleur Scrum Master** | Observation sur les 2 jours |
+| 👑 **Meilleur Product Owner** | Observation sur toute la formation (Jeu Kapla + Atelier US) |
+| 🛡️ **Meilleur Scrum Master** | Observation sur toute la formation |
 | 💡 **Question la plus pertinente** | Vote de la classe |
 | 🎨 **Plus beau Kanban / Plus belle ville Lego** | Vote de la classe |
 
