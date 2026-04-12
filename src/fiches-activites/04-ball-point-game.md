@@ -82,11 +82,25 @@
    - Est-ce que quelqu'un a pris un rôle de leader naturellement ?
 
 3. **Concepts à formaliser :**
-   - **Vélocité** = nombre de points réalisés par sprint
-   - **Estimation** = prédire la capacité de l'équipe
-   - **Burnup chart** = courbe cumulative du travail fait
-   - **Amélioration continue** = la retro permet de s'améliorer
-   - **Empirisme** = on mesure pour mieux prédire
+   - **Vélocité** = nombre de points réalisés par sprint → on la trace sprint après sprint, c'est la courbe qu'on vient de dessiner
+   - **Estimation** = prédire la capacité de l'équipe → elle s'améliore quand on a un historique de vélocité
+   - **Burnup chart (release)** = courbe cumulative du travail fait **d'un sprint à l'autre** → tracer au tableau le cumul des points (Sprint 1 : 8, Sprint 2 : 8+14=22, Sprint 3 : 22+18=40…). Montre si on converge vers l'objectif total du projet
+   - **Burndown chart (sprint)** = en vrai projet, c'est la courbe du travail **restant** au sein d'un sprint, **jour par jour**. Nos sprints de 2 min sont trop courts pour l'illustrer ici, mais c'est l'outil qu'une équipe utilise au quotidien pour savoir si elle est dans les temps
+   - **Amélioration continue** = la retro entre chaque sprint permet de s'améliorer → la vélocité monte
+   - **Empirisme** = on mesure pour mieux prédire (les estimations se rapprochent du réel)
+
+4. **Schéma à dessiner au tableau :**
+
+```
+Vélocité (par sprint)          Burnup (cumulé)
+pts                            pts
+ |    ___                       |              ___/
+ |   |   | ___                  |          ___/
+ |   |   ||   |___              |      ___/
+ |   |   ||   ||   |            |  ___/
+ |___|___|___|___|___|          |_/________________
+   S1  S2  S3  S4  S5            S1  S2  S3  S4  S5
+```
 
 ---
 
@@ -98,7 +112,8 @@
 - **Humour** : quand les balles tombent partout au Sprint 1, en rire ensemble
 
 ## 🔄 Variantes
+- **Burndown intra-sprint** : lors du Sprint 4 ou 5, un observateur compte les balles complétées toutes les **30 secondes** (4 mesures pour un sprint de 2 min). On trace ensuite un mini-burndown/burnup *au sein du sprint* pour montrer la différence avec la courbe sprint-par-sprint. Ça rend le concept de burndown concret : « en vrai, votre équipe ferait ça jour par jour pendant un sprint de 2 semaines »
 - **Compétitif** : diviser en 2 équipes qui font le jeu en parallèle
-- **Contrainte ajoutée** : au Sprint 4, retirer une personne du cercle (« Elle est en congé ! ») → gestion de la capacité
+- **Contrainte ajoutée** : au Sprint 4, retirer une personne du cercle (« Elle est en congé ! ») → gestion de la capacité et impact sur la vélocité
 - **Changer les règles** : au Sprint 3, le client change la règle (« Maintenant les balles rouges valent double ! ») → gestion du changement
 
