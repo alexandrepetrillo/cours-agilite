@@ -1,5 +1,5 @@
 # Quiz Manifeste Agile - Format YAML
-# 16 questions : 4 valeurs + 12 principes
+# 18 questions : 4 valeurs + 12 principes + 2 bonus culture Agile (curseur)
 # À importer dans Kahoot, Mentimeter ou tout outil compatible
 
 title: "Quiz Manifeste Agile 🚀"
@@ -177,4 +177,26 @@ questions:
     timeLimit: 15
     points: 1000
     correctAnswer: true
+
+  # =============================================
+  # BONUS — CULTURE AGILE
+  # =============================================
+
+  # Bonus 1 — Année du Manifeste
+  - text: "En quelle année le Manifeste Agile a-t-il été rédigé par un groupe de développeurs réunis dans une station de ski de l'Utah ?"
+    type: CURSEUR
+    timeLimit: 30
+    points: 1500
+    sliderMin: 1995
+    sliderMax: 2010
+    correctValue: 2001
+
+  # Bonus 2 — Nombre de signataires
+  - text: "Combien de professionnels du logiciel ont signé le Manifeste Agile à Snowbird (Utah) ?"
+    type: CURSEUR
+    timeLimit: 30
+    points: 1500
+    sliderMin: 5
+    sliderMax: 30
+    correctValue: 17
 

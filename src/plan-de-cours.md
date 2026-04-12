@@ -261,7 +261,7 @@ Pour chaque valeur/principe, le même cycle :
 | **Type** | 📚 Cours interactif |
 | **Objectif** | Maîtriser la rédaction de User Stories et la Definition of Done |
 | **Compétences** | C29, C30 |
-| **Matériel** | Slides, exemples imprimés |
+| **Matériel** | Slides, exemples imprimés, contenu de cours (voir `supports/user-stories-dod-cours.md`) |
 | **Exercice réf.** | Exercice 2 — « Implémentation de Scrum » (partie 2) |
 
 **Déroulé :**
