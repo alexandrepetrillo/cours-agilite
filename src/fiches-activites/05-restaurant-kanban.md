@@ -12,12 +12,12 @@
 
 ## 🏷️ Compétences : C29, C30, C31
 
-## 👥 Format : Toute la classe participe, divisée en rôles
+## 👥 Format : 11 étudiants, toute la classe participe, divisée en rôles
 
 ---
 
 ## 📦 Matériel nécessaire
-- 30-40 cartes bristol (petites, format carte postale) — ce sont les **tickets de commande**
+- 20-25 cartes bristol (petites, format carte postale) — ce sont les **tickets de commande** (5 clients × 4 tickets + quelques extras)
 - Grand tableau au mur (ou feuille A0) — le **tableau Kanban**
 - Post-its de 5 couleurs
 - Marqueurs (plusieurs par poste)
@@ -61,13 +61,13 @@
 │         🍽️  MENU — Chez l'Agiliste          │
 │                                             │
 │  🍔 Burger simple ............... 1 étoile  │
-│     → 2 ingrédients à dessiner              │
+│     → 3 ingrédients à dessiner              │
 │                                             │
 │  🍕 Pizza ...................... 2 étoiles   │
-│     → 4 ingrédients à dessiner              │
+│     → 5 ingrédients à dessiner              │
 │                                             │
 │  🥘 Plat gastronomique ........ 3 étoiles   │
-│     → 6 ingrédients à dessiner              │
+│     → 8 ingrédients à dessiner              │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
@@ -213,57 +213,90 @@ Chaque carte bristol est un ticket pré-imprimé ou préparé à la main. C'est 
 
 > ⚠️ **Important** : le numéro du ticket (#1, #2, #3…) doit correspondre au numéro sur le post-it Kanban ! C'est ce qui permet de faire le lien entre le « travail réel » et la « visualisation ».
 
-#### Attribution des rôles
+#### Attribution des rôles (11 étudiants)
 
-| Rôle | Nb personnes | Ce qu'ils font physiquement |
-|------|-------------|---------------------------|
-| 👥 **Clients** | 5-8 | Assis à leur « table ». Choisissent un plat du menu, remplissent un ticket et le donnent au Serveur. Attendent leur plat. |
-| 🏃 **Serveur(s)** | 1-2 | Font la navette entre les clients et la cuisine. Récupèrent les tickets des clients, **notent l'heure de début** sur le ticket bristol et le déposent au 1er poste (table Prépa). **En même temps**, prennent un post-it vierge, y écrivent le n° du ticket + le plat (ex: `#3 🍕`), et le collent dans la colonne « Commande reçue » au tableau Kanban au mur. Surveillent l'avancement et **déplacent les post-its** sur le tableau quand les tickets changent de poste. À la fin, ramènent le ticket fini au client et notent l'heure de fin. |
-| ✏️ **Cuisiniers Prépa** | 2-3 | Au poste Préparation. **Dessinent les ingrédients** au dos du ticket (voir détail ci-dessous). Signent la case « Prépa OK ». Passent le ticket au poste suivant. |
-| ⏱️ **Cuisiniers Cuisson** | 1-2 | Au poste Cuisson. **Lancent le chrono** et retournent le ticket face cachée pendant la durée requise (voir ci-dessous). Quand le temps est écoulé, signent « Cuisson OK ». Passent le ticket. |
-| 🍽️ **Dresseurs** | 1-2 | Au poste Dressage. **Vérifient** que le nombre d'ingrédients dessinés correspond au plat commandé (contrôle qualité). Si c'est bon → signent « Dressage OK » + gommette verte. Si erreur → ticket renvoyé en Prépa ! |
-| 📊 **Maître d'hôtel** | 1 | **Observe et mesure**. Déplace les post-its sur le tableau Kanban quand les tickets changent de poste. **Toutes les minutes**, fait un snapshot en comptant les post-its par colonne (voir grille CFD ci-dessous). Note l'heure de fin sur chaque ticket servi. Compte les métriques. |
+> ⚠️ **Principe de calibrage :** pour que les tickets bouchonnent, la Prépa (2 personnes) doit produire **~2× plus vite** que la Cuisson (1 seule personne). C'est ce déséquilibre volontaire qui crée le goulot d'étranglement visible.
+
+| Rôle | Nb | Pourquoi ce nombre |
+|------|:--:|-------------------|
+| 👥 **Clients** | 5 | 5 clients × 4 tickets = **20 commandes** au total → suffisant pour noyer le système |
+| 🏃 **Serveur** | 1 | Un seul → en Round 1 il est débordé (fait partie du chaos) |
+| ✏️ **Cuisiniers Prépa** | 2 | Travaillent en parallèle → débit élevé (~1 ticket toutes les 15s) |
+| ⏱️ **Cuisinier Cuisson** | **1** | **⚠️ UN SEUL = LE GOULOT.** Ne peut traiter qu'1 ticket à la fois (~1 ticket toutes les 35s) |
+| 🍽️ **Dresseur** | 1 | Vérification rapide (~10s) → ne bloque jamais |
+| 📊 **Maître d'hôtel** | 1 | Tableau Kanban + snapshots CFD + métriques |
+| 🎭 **Formateur** | (hors effectif) | Joue le client râleur + crie « SNAPSHOT ! » |
+| | **= 11** | |
+
+> 💡 **Pourquoi 4 tickets par client et pas 3 ?** Avec 20 tickets au total et 1 seul cuisinier cuisson (~35s en moyenne par ticket), il faudrait ~700s = **11,6 min** pour tout traiter. En 8 minutes de round, la cuisson ne peut traiter que ~13-14 tickets → **il restera toujours 6-7 tickets non servis** à la fin du Round 1. Le bouchon est **garanti**.
 
 #### Ce que chaque poste fait concrètement
 
 **✏️ Poste Préparation — « Dessiner les ingrédients »**
 
-Le cuisinier prépa prend le ticket et dessine au dos les ingrédients du plat. Chaque ingrédient = un **petit dessin simple** (5-10 secondes par dessin).
+Le cuisinier prépa prend le ticket et dessine au dos les ingrédients du plat. Chaque ingrédient = un **petit dessin simple** (~7 secondes par dessin).
 
-| Plat | Ingrédients à dessiner |
-|------|----------------------|
-| 🍔 Burger (2 dessins) | 1 rond (pain) + 1 carré (steak) |
-| 🍕 Pizza (4 dessins) | 1 cercle (pâte) + 3 ronds dedans (tomate, fromage, champignon) |
-| 🥘 Gastronomique (6 dessins) | 1 rectangle (assiette) + 1 cercle (viande) + 1 triangle (légume) + 1 vague (sauce) + 1 étoile (décoration) + 1 trait (couvert) |
+| Plat | Nb dessins | Ingrédients à dessiner | ⏱️ Temps estimé (1 personne) |
+|------|:----------:|----------------------|:----------------------------:|
+| 🍔 Burger | **3** | 1 demi-cercle (pain du haut) + 1 carré (steak) + 1 demi-cercle (pain du bas) | **~20s** |
+| 🍕 Pizza | **5** | 1 grand cercle (pâte) + 1 vague dedans (sauce) + 3 petits ronds (tomate, fromage, champignon) | **~35s** |
+| 🥘 Gastronomique | **8** | 1 rectangle (assiette) + 1 cercle (viande) + 1 triangle (légume) + 1 losange (légume 2) + 1 vague (sauce) + 1 étoile (décoration) + 1 trait (couvert) + 1 spirale (garniture) | **~55s** |
 
 > 💡 Le but n'est pas de faire du beau dessin ! Des formes simples suffisent. L'important c'est que ça prenne du **temps réel** et crée du **flux**.
+>
+> 📐 **Débit Prépa à 2 personnes :** comme les 2 cuisiniers travaillent en parallèle, le poste sort ~1 ticket toutes les **12-18 secondes** en moyenne. C'est **2× plus rapide** que la Cuisson → les tickets s'accumulent devant la Cuisson.
 
 **⏱️ Poste Cuisson — « Attendre le temps de cuisson »**
 
 Le cuisinier cuisson retourne le ticket face cachée et **attend** le temps requis. Il NE PEUT PAS commencer un autre ticket pendant ce temps (il « surveille la cuisson »).
 
 | Plat | Temps de cuisson |
-|------|-----------------|
-| 🍔 Burger | **15 secondes** |
-| 🍕 Pizza | **30 secondes** |
-| 🥘 Gastronomique | **45 secondes** |
+|------|:----------------:|
+| 🍔 Burger | **20 secondes** |
+| 🍕 Pizza | **40 secondes** |
+| 🥘 Gastronomique | **60 secondes** |
 
-> ⚠️ C'est ici que le **goulot d'étranglement** apparaît naturellement ! Le poste cuisson est lent → les tickets s'accumulent devant → c'est exactement le phénomène qu'on veut observer.
+> ⚠️ **C'est ICI que ça bouchonne !** Avec 1 seule personne qui ne peut faire qu'1 ticket à la fois :
+> - Débit cuisson : ~1 ticket toutes les **35 secondes** en moyenne
+> - Débit prépa : ~1 ticket toutes les **15 secondes**
+> - **Ratio 2,3:1** → pour chaque ticket que la cuisson termine, la prépa en a produit 2 de plus !
+> - Résultat : les tickets **s'empilent physiquement** sur la table devant le poste Cuisson
 
 **🍽️ Poste Dressage — « Contrôle qualité »**
 
-Le dresseur vérifie que le ticket est complet :
-- ✅ Le bon nombre d'ingrédients est dessiné ? (2 pour burger, 4 pour pizza, 6 pour gastro)
+Le dresseur vérifie que le ticket est complet (~10-15 secondes par ticket → **jamais un goulot**) :
+- ✅ Le bon nombre d'ingrédients est dessiné ? (3 pour burger, 5 pour pizza, 8 pour gastro)
 - ✅ La case Prépa ET Cuisson sont signées ?
 - Si tout est OK → gommette verte + signe « Dressage OK »
 - Si erreur → **le ticket repart au poste Prépa** (rework !) avec un post-it rouge « À corriger »
 
+---
+
+#### 🔢 Simulation prévisionnelle (preuve que ça bouchonne)
+
+Voici ce qui devrait se passer en Round 1 avec les paramètres ci-dessus (5 clients, 4 tickets chacun, mix réaliste de plats) :
+
+```
+Temps   | Tickets dans   | Tickets en  | Tickets en    | Tickets     | Tickets  | Observation
+        | le système     | attente     | cours de      | en attente  | servis   |
+        | (total entré)  | avant Prépa | cuisson       | avant Cuiss.|          |
+--------|----------------|-------------|---------------|-------------|----------|------------------
+T+1min  |    6-8         |    0-1      |      1        |    2-3      |    0-1   | Ça commence à s'empiler
+T+2min  |   10-12        |    0        |      1        |    4-6      |    2-3   | 🔴 BOUCHON VISIBLE
+T+3min  |   14-16        |    0        |      1        |    5-7      |    4-5   | 🔴🔴 Pile énorme devant cuisson
+T+4min  |   17-20        |    0        |      1        |    5-8      |    6-7   | Les clients râlent !
+T+5min  |     20         |    0        |      1        |    4-6      |    8-9   | Cuisson ne rattrape pas
+T+8min  |     20         |    0        |      1        |    2-4      |   13-14  | ⏸️ STOP ! ~6 tickets jamais servis
+```
+
+**Pourquoi ça marche :** à T+3min, il y a ~6 tickets physiquement empilés sur la table du cuisinier Cuisson. C'est **très visuel** et impossible à rater. Le formateur peut pointer la pile et demander : « Ça vous rappelle quelque chose dans vos projets ? »
+
 #### Round 1 — Sans limite WIP (8 min)
 
 **Mise en place :**
-1. Les clients ont chacun **3 tickets** à passer (= 3 commandes successives)
-2. Ils donnent leur 1er ticket au serveur dès le top départ, puis le 2ème quand ils veulent, etc.
-3. Les serveurs déposent les tickets au poste « Commande reçue » dès réception
+1. Les clients ont chacun **4 tickets** à passer (= 4 commandes successives = **20 tickets au total**)
+2. Ils donnent leur 1er ticket au serveur dès le top départ, puis les suivants quand ils veulent
+3. Le serveur dépose les tickets au poste « Commande reçue » dès réception
 4. Le Maître d'hôtel **lance un chrono** et prépare sa grille de relevé CFD (voir ci-dessous)
 
 #### 📊 Grille de relevé pour le Cumulative Flow Diagram
@@ -334,19 +367,34 @@ Tout le monde s'arrête. On regarde le tableau Kanban au mur :
 **Ce qu'on observe en général :**
 - Moins de chaos, moins de stress
 - Les cuisiniers sont parfois « inactifs » (ils attendent qu'une place se libère) → et c'est NORMAL en Kanban
-- Le Lead Time par ticket est souvent **meilleur** (moins d'attente dans les files)
+- Le Lead Time par ticket est souvent **beaucoup meilleur** (moins d'attente dans les files)
 - Moins d'erreurs au contrôle qualité (moins de pression)
+- Le nombre de plats servis est **à peu près le même** → c'est contre-intuitif !
+
+> ⚠️ **Point crucial pour le formateur :** les étudiants vont souvent dire « mais on a servi moins de plats ! ». C'est **normal** et c'est le bon moment pour expliquer : le goulot (Cuisson = 1 personne) est la vraie contrainte — elle ne change pas entre les 2 rounds. Ce qui change, c'est **tout le reste** : Lead Time, stress, qualité, prévisibilité. En Round 1, on *commençait* beaucoup de choses mais on ne les *finissait* pas plus vite.
 
 ### Phase 3 — Débrief + Construction Express (15 min)
 
 #### Tableau comparatif des métriques
 
-| Métrique | Round 1 (sans WIP) | Round 2 (avec WIP) |
-|----------|--------------------|--------------------|
-| Lead Time moyen | ___ secondes | ___ secondes |
-| Commandes servies | ___ | ___ |
-| Commandes « en cours » max | ___ | ___ |
-| Erreurs / blocages | ___ | ___ |
+| Métrique | Round 1 (sans WIP) | Round 2 (avec WIP) | Ce qu'on attend |
+|----------|--------------------|--------------------|-----------------|
+| Commandes servies | ___ | ___ | **≈ pareil** (le goulot est le même) |
+| Lead Time moyen | ___ secondes | ___ secondes | **R2 bien meilleur** (moins d'attente en file) |
+| Lead Time du 1er ticket servi | ___ secondes | ___ secondes | **≈ pareil** (le 1er passe vite dans les 2 cas) |
+| Lead Time du dernier ticket servi | ___ secondes | ___ secondes | **R1 bien pire** (il a attendu longtemps dans la pile) |
+| Commandes « en cours » max | ___ | ___ | **R1 : 8-10+** vs **R2 : 4-6** |
+| Erreurs / rework | ___ | ___ | **R2 moins d'erreurs** (moins de pression) |
+| Board Kanban fiable ? | ___ | ___ | **R1 : non** (Maître d'hôtel noyé) vs **R2 : oui** |
+
+> 🎯 **Le résultat attendu N'EST PAS « plus de plats servis ».** C'est :
+> 1. **Lead Time individuel beaucoup plus court** → chaque client est servi plus vite
+> 2. **Prévisibilité** → on sait quand un plat sera prêt
+> 3. **Moins de stress et d'erreurs** → meilleure qualité
+> 4. **Visibilité réelle** → le board reflète la vérité
+> 5. **Même throughput** → on ne perd rien en productivité !
+>
+> 💬 **La phrase à retenir :** *« Stop starting, start finishing. »* — On ne livre pas plus en commençant tout en même temps, on crée juste du chaos et de l'attente.
 
 #### 📈 Construction du Cumulative Flow Diagram (5 min)
 
@@ -387,10 +435,39 @@ Tout le monde s'arrête. On regarde le tableau Kanban au mur :
 
 > 🎓 **Point pédagogique clé :** le CFD permet de voir **en un coup d'œil** si le flux est sain ou malade. En vrai projet, on le génère automatiquement depuis Jira/Azure DevOps. Ici, on l'a construit à la main pour comprendre ce qu'il raconte.
 
-**Questions :**
-- Quel round était le moins stressant ?
-- Quel round a servi les clients plus rapidement ?
+**Questions de débrief (faire réfléchir les étudiants) :**
+- Quel round était le moins stressant pour les cuisiniers ? Pour les clients ?
+- A-t-on servi **plus** de plats en Round 2 ? (réponse : non, à peu près pareil → surprenant !)
+- Alors **qu'est-ce qu'on a gagné** avec les limites WIP ?
 - Que se passe-t-il quand on travaille sur trop de choses en même temps ?
+- En projet IT : est-ce qu'un développeur qui commence 5 tâches va plus vite qu'un qui en fait 2 à la fois ?
+- Le board Kanban était-il fiable en Round 1 ? Pourquoi ? Et en Round 2 ?
+
+#### 🤔 Anticiper l'objection : « Mais on fait juste attendre le client avant ! »
+
+> Un étudiant va probablement dire : *« Le Lead Time est meilleur en Round 2, mais c'est triché ! On a juste fait attendre le client AVANT de prendre sa commande au lieu de le faire attendre APRÈS. Le temps total est pareil ! »*
+
+C'est une **très bonne objection**. Et la réponse est la clé de Kanban :
+
+**Oui, le temps total d'attente est similaire.** Ce qui change, c'est **où** et **comment** on attend :
+
+| | Round 1 : attente APRÈS commande | Round 2 : attente AVANT commande |
+|---|---|---|
+| **Le client sait-il qu'il attend ?** | ❌ Non. Il a commandé, il croit que c'est en cours. Il s'énerve. | ✅ Oui. Le serveur lui dit « je prends votre commande dès qu'une place se libère ». Il comprend. |
+| **Le travail "en cours" est-il réel ?** | ❌ Non. 8 tickets sont « en cours » mais 6 dorment dans une pile. C'est du **faux travail en cours**. | ✅ Oui. Les 4-6 tickets en cours sont **réellement** en train d'être traités. |
+| **Peut-on prédire le délai ?** | ❌ Impossible. « Votre plat sera prêt dans… euh… je ne sais pas. » | ✅ Oui. « Il y a 2 commandes devant vous, ~2 min d'attente. » |
+| **Le client peut-il changer d'avis ?** | ❌ Trop tard, sa commande est dans la pile. Il a « payé » mais n'a rien. | ✅ Oui ! Tant que le serveur n'a pas pris sa commande, il peut changer de plat ou annuler sans gaspillage. |
+| **Analogie IT** | Un ticket Jira "In Progress" depuis 3 semaines, bloqué en attente de review | Un ticket dans le Backlog priorisé, qui sera pris dès qu'un dev est disponible |
+
+**Le message clé à faire passer :**
+
+> *« En Round 1, vous aviez 8 tickets "en cours" mais seulement 3 étaient réellement travaillés. Les 5 autres dormaient dans une file. C'est comme avoir 8 tickets "In Progress" dans Jira alors que 5 sont bloqués en attente de review. C'est du **travail fantôme** qui donne une fausse impression d'activité. »*
+>
+> *« En Round 2, quand un ticket est "en cours", il est **vraiment** en cours. Et le client qui attend en salle sait qu'il attend — il n'a pas l'illusion que son plat est en préparation alors qu'il est dans une pile. »*
+
+**En une phrase :** Kanban ne supprime pas l'attente — il la **rend visible et honnête** au lieu de la **cacher dans de faux encours**.
+
+> 💡 **Analogie finale à faire :** « Imaginez une autoroute. Si vous mettez 1000 voitures d'un coup, ça bouchonne et personne n'arrive. Si vous régullez l'entrée (les feux d'accès), chaque voiture arrive **plus vite** même si le nombre total de voitures par heure est le même. Les limites WIP sont les feux d'accès de votre autoroute de développement. »
 
 **Concepts à formaliser :**
 - **Lead Time** : temps total du début à la fin
