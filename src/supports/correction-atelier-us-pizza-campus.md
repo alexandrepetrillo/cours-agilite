@@ -42,7 +42,6 @@
 
 | Priorité | Estimation | Justification estimation |
 |----------|-----------|------------------------|
-| 🔴 **Must** | **3** | Affichage d'une liste avec données statiques, pas de logique complexe. Nécessite la création du modèle de données pizza. |
 
 **Critères d'acceptation :**
 - ✅ La liste des pizzas s'affiche avec : nom, photo, liste des ingrédients, prix
@@ -66,7 +65,6 @@
 
 | Priorité | Estimation | Justification estimation |
 |----------|-----------|------------------------|
-| 🔴 **Must** | **5** | Gestion d'état du panier (ajout, quantité, total), stockage local. Plus complexe que l'affichage simple. |
 
 **Critères d'acceptation :**
 - ✅ Je peux ajouter une pizza au panier depuis le menu
@@ -91,7 +89,6 @@
 
 | Priorité | Estimation | Justification estimation |
 |----------|-----------|------------------------|
-| 🔴 **Must** | **13** | Intégration d'une API de paiement tierce (Stripe, etc.), gestion des erreurs, sécurité, conformité PCI. Story la plus complexe. |
 
 **Critères d'acceptation :**
 - ✅ Je peux saisir mes informations de carte bancaire (ou utiliser Apple Pay / Google Pay)
@@ -114,7 +111,6 @@
 
 | Priorité | Estimation | Justification estimation |
 |----------|-----------|------------------------|
-| 🔴 **Must** | **5** | Nécessite un système de statuts, un rafraîchissement en temps réel (polling ou websocket) et un affichage clair. |
 
 **Critères d'acceptation :**
 - ✅ La commande affiche un statut parmi : « En attente », « En préparation », « Prête ! », « Récupérée »
@@ -140,7 +136,6 @@
 
 | Priorité | Estimation | Justification estimation |
 |----------|-----------|------------------------|
-| 🔴 **Must** | **5** | Liste avec rafraîchissement automatique, bouton pour changer le statut. Interface simple mais critique. |
 
 **Critères d'acceptation :**
 - ✅ Les nouvelles commandes apparaissent automatiquement en haut de la liste
@@ -160,7 +155,6 @@
 
 | Priorité | Estimation | Justification estimation |
 |----------|-----------|------------------------|
-| 🔴 **Must** | **5** | Inscription classique (email, mdp, validation), hashing du mot de passe, gestion de session/JWT. |
 
 **Critères d'acceptation :**
 - ✅ Je peux m'inscrire avec un email en @monuniversite.fr et un mot de passe (min 8 caractères)
@@ -180,7 +174,6 @@
 
 | Priorité | Estimation | Justification estimation |
 |----------|-----------|------------------------|
-| 🟡 **Should** | **3** | Lecture seule d'une liste, peu de logique. Nécessite que l'auth et les commandes existent. |
 
 **Critères d'acceptation :**
 - ✅ La liste affiche les commandes passées avec : date, détail des pizzas, montant, statut
@@ -199,7 +192,6 @@
 
 | Priorité | Estimation | Justification estimation |
 |----------|-----------|------------------------|
-| 🟡 **Should** | **5** | CRUD complet sur les pizzas (nom, prix, ingrédients, photo, disponibilité). Interface d'administration. |
 
 **Critères d'acceptation :**
 - ✅ Je peux ajouter une nouvelle pizza avec : nom, description, ingrédients, prix, photo
@@ -219,7 +211,6 @@
 
 | Priorité | Estimation | Justification estimation |
 |----------|-----------|------------------------|
-| 🟢 **Could** | **8** | Requêtes d'agrégation, graphiques, filtres par date. Pas bloquant pour la v1 mais utile pour le suivi. |
 
 **Critères d'acceptation :**
 - ✅ Un tableau de bord affiche : nombre de commandes du jour, CA du jour, CA de la semaine
@@ -239,7 +230,6 @@
 
 | Priorité | Estimation | Justification estimation |
 |----------|-----------|------------------------|
-| 🟢 **Could** | **5** | Intégration Firebase Cloud Messaging / APNs. Nécessite la gestion des tokens, permissions, envoi côté serveur. |
 
 **Critères d'acceptation :**
 - ✅ Au premier lancement, l'app demande la permission d'envoyer des notifications
@@ -257,14 +247,14 @@
 
 | # | User Story | Persona | MoSCoW | Points |
 |---|-----------|---------|--------|--------|
-| 1 | Consulter le menu | 🎓 Étudiant | 🔴 Must | **3** |
-| 2 | Ajouter au panier | 🎓 Étudiant | 🔴 Must | **5** |
-| 3 | Payer en ligne | 🎓 Étudiant | 🔴 Must | **13** |
-| 4 | Suivre l'état de ma commande | 🎓 Étudiant | 🔴 Must | **5** |
-| 5 | Recevoir et gérer les commandes | 🍕 Pizzaiolo | 🔴 Must | **5** |
-| 6 | Créer un compte étudiant | 🎓 Étudiant | 🔴 Must | **5** |
-| 7 | Consulter mon historique | 🎓 Étudiant | 🟡 Should | **3** |
-| 8 | Gérer le menu | 👩‍💼 Gestionnaire | 🟡 Should | **5** |
+| 1 | Consulter le menu | 🎓 Étudiant |  Must | **3** |
+| 2 | Ajouter au panier | 🎓 Étudiant |  Must | **5** |
+| 3 | Payer en ligne | 🎓 Étudiant |  Must | **13** |
+| 4 | Suivre l'état de ma commande | 🎓 Étudiant |  Must | **5** |
+| 5 | Recevoir et gérer les commandes | 🍕 Pizzaiolo |  Must | **5** |
+| 6 | Créer un compte étudiant | 🎓 Étudiant |  Must | **5** |
+| 7 | Consulter mon historique | 🎓 Étudiant |  Should | **3** |
+| 8 | Gérer le menu | 👩‍💼 Gestionnaire |  Should | **5** |
 | 9 | Statistiques de vente | 👩‍💼 Gestionnaire | 🟢 Could | **8** |
 | 10 | Notification push pizza prête | 🎓 Étudiant | 🟢 Could | **5** |
 
@@ -272,9 +262,9 @@
 
 | Catégorie | Nb stories | Total points |
 |-----------|-----------|-------------|
-| 🔴 **Must** | 6 | **36 pts** |
-| 🟡 **Should** | 2 | **8 pts** |
-| 🟢 **Could** | 2 | **13 pts** |
+|   | 6 | **36 pts** |
+|   | 2 | **8 pts** |
+| 🟢  | 2 | **13 pts** |
 | **TOTAL** | **10** | **57 pts** |
 
 ---
@@ -313,7 +303,7 @@ Hypothèse : l'équipe de 3 devs peut livrer environ **15-20 points par sprint**
 | US sans « afin de » | Quelle valeur apporte cette fonctionnalité ? |
 | US trop grosse : « Je veux commander une pizza » | Découper : menu → panier → paiement → confirmation |
 | US technique : « Je veux une base de données PostgreSQL » | Reformuler du point de vue utilisateur |
-| Tout en 🔴 Must | « Si tout est prioritaire, rien ne l'est. Le Must = sans ça l'app ne sert à rien » |
+| Tout en  Must | « Si tout est prioritaire, rien ne l'est. Le Must = sans ça l'app ne sert à rien » |
 | Estimation identique partout (tout à 5) | « Afficher une liste et intégrer un paiement, c'est vraiment le même effort ? » |
 | Oublier le persona pizzaiolo | « Qui prépare les pizzas ? Il n'a pas besoin de l'app ? » |
 
