@@ -15,14 +15,14 @@ def test_vip_discount():
     """Un article avec réduction VIP"""
     items = [("Item", 100.0, 1)]
     result = calc(items, "FR", "VIP")
-    assert result == 105.19  # 100*0.85=85 + 5.99 + 20% tax
+    assert result == 109.19  # 100*0.85=85 + 5.99 shipping + 20% tax on (85+5.99)
 
 
 def test_quantity_discount():
     """5+ articles du même type = 10% de réduction"""
     items = [("Item", 10.0, 5)]
     result = calc(items, "FR", "NORMAL")
-    assert result == 60.59  # 10*5*0.9=45 + 5.99 + 20% tax
+    assert result == 61.19  # 10*5*0.9=45 + 5.99 shipping + 20% tax on (45+5.99)
 
 
 def test_free_shipping_fr():
@@ -50,7 +50,7 @@ def test_student_discount():
     """Réduction étudiant"""
     items = [("Item", 100.0, 1)]
     result = calc(items, "FR", "STUDENT")
-    assert result == 114.79  # 100*0.9=90 + 5.99 + 20% tax
+    assert result == 115.19  # 100*0.9=90 + 5.99 shipping + 20% tax on (90+5.99)
 
 
 def test_empty_cart():

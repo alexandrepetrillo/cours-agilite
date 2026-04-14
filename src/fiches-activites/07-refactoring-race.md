@@ -139,12 +139,12 @@ def test_simple_cart():
 def test_vip_discount():
     items = [("Item", 100.0, 1)]
     result = calc(items, "FR", "VIP")
-    assert result == 105.19  # 100*0.85=85 + 5.99 + 20% tax
+    assert result == 109.19  # 100*0.85=85 + 5.99 shipping + 20% tax on (85+5.99)
 
 def test_quantity_discount():
     items = [("Item", 10.0, 5)]
     result = calc(items, "FR", "NORMAL")
-    assert result == 60.59  # 10*5*0.9=45 + 5.99 + 20% tax
+    assert result == 61.19  # 10*5*0.9=45 + 5.99 shipping + 20% tax on (45+5.99)
 
 def test_free_shipping_fr():
     items = [("Item", 200.0, 1)]
@@ -164,7 +164,7 @@ def test_world_no_tax():
 def test_student_discount():
     items = [("Item", 100.0, 1)]
     result = calc(items, "FR", "STUDENT")
-    assert result == 114.79  # 100*0.9=90 + 5.99 + 20% tax
+    assert result == 115.19  # 100*0.9=90 + 5.99 shipping + 20% tax on (90+5.99)
 
 def test_empty_cart():
     items = []
