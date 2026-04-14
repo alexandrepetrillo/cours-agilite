@@ -63,7 +63,7 @@
 │  🍔 Burger simple ............... 1 étoile  │
 │     → 3 ingrédients à dessiner              │
 │                                             │
-│  🍕 Pizza ...................... 2 étoiles   │
+│  🍕 Pizza ...................... 2 étoiles  │
 │     → 5 ingrédients à dessiner              │
 │                                             │
 │  🥘 Plat gastronomique ........ 3 étoiles   │
@@ -120,7 +120,7 @@ Le jeu repose sur **deux objets distincts par commande** qui avancent en parall�
      le plat au client    et rend le ticket au client     "Servi ✅"
 ```
 
- > 💡 **Qui déplace les post-its ?** En pratique, c'est le **Serveur** ou le **Maître d'hôtel** qui fait les allers-retours entre les postes et le mur. Si vous avez un grand groupe, le Maître d'hôtel se concentre sur le tableau et les métriques, tandis que le Serveur lui signale quand un ticket change de poste. Dans un petit groupe, une seule personne peut faire les deux.
+> 💡 **Qui déplace les post-its ?** En pratique, c'est le **Serveur** ou le **Maître d'hôtel** qui fait les allers-retours entre les postes et le mur. Si vous avez un grand groupe, le Maître d'hôtel se concentre sur le tableau et les métriques, tandis que le Serveur lui signale quand un ticket change de poste. Dans un petit groupe, une seule personne peut faire les deux.
 
 #### 📢 Le système d'annonces vocales (CRUCIAL pour le jeu)
 
