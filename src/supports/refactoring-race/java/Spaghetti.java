@@ -1,6 +1,7 @@
 // Spaghetti.java - Calculateur de panier d'achat
 // CE CODE FONCTIONNE... mais il est horrible. À vous de le nettoyer !
 
+import java.util.Arrays;
 import java.util.List;
 
 public class Spaghetti {

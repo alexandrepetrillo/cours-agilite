@@ -12,10 +12,24 @@ public class RomanTest {
         assertEquals("I", Roman.toRoman(1));
     }
 
-    // 🏓 À vous de continuer en Ping-Pong TDD !
-    // Progression suggérée :
-    //   Roman.toRoman(2) -> "II"
-    //   Roman.toRoman(3) -> "III"
+    @Test
+    void test_2_returns_II() {
+        assertEquals("II", Roman.toRoman(2));
+    }
+    @Test
+    void test_3_returns_III() {
+        assertEquals("III", Roman.toRoman(3));
+    }
+    @Test
+    void test_4_returns_IV() {
+        assertEquals("IV", Roman.toRoman(4));
+    }
+    @Test
+    void test_5_returns_V() {
+        assertEquals("V", Roman.toRoman(5));
+    }
+
+
     //   Roman.toRoman(4) -> "IV"
     //   Roman.toRoman(5) -> "V"
     //   Roman.toRoman(6) -> "VI"

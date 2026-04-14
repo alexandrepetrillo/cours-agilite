@@ -12,8 +12,6 @@
 public class Roman {
 
     public static String toRoman(int number) {
-        // À implémenter en TDD !
-        return null;
+        return null; // À implémenter en TDD !
     }
 }
-
